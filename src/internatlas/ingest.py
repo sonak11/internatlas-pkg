@@ -41,7 +41,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 import requests
 import yaml
 
-from .loader import load_all, write_listing
+from .loader import delete_listing, load_all, write_listing
 from .models import (ApplicationStatus, Category, CompanyInfo, Dates, DegreeLevel,
                      Eligibility, Internship, Location, Season, TechProfile,
                      VisaSponsorship, WorkMode, make_slug)
@@ -644,7 +644,50 @@ def sync(root: Path | str = ".", year: int = 2027, today: date | None = None,
             if (l.company.slug, role_slug) in inactive_feed_keys:
                 _close(l, root, today, counters)
 
+    # Final safety net: remove any auto-ingested files that now share an apply
+    # URL with another listing — e.g. the same posting written under a different
+    # id in a previous run because a differently-spelled source came online.
+    # This is what keeps `internatlas validate` (and the hourly job) green across
+    # source changes; it is self-healing on every run.
+    counters["pruned"] = 0
+    _prune_url_collisions(root, counters, seen_ids)
+
     return counters
+
+
+def _prune_url_collisions(root: Path, counters: dict[str, int], seen_ids: set[str]) -> None:
+    """Collapse on-disk listings that share a canonical apply URL.
+
+    Deletes only redundant *auto-ingested* copies, and only ones that are **not
+    live this run** — i.e. stale orphans left over from an earlier run (say, the
+    same posting written under a different id before a differently-spelled source
+    came online). The listing a current source actually produces (``seen_ids``),
+    or any hand-curated file, is always the one kept. Because we never delete the
+    live keeper, a steady state produces no churn: once the orphan is gone it is
+    never recreated. Self-healing on every run.
+    """
+    from .dedupe import canonicalize_url
+
+    by_url: dict[str, list[Internship]] = {}
+    for l in load_all(root).listings:
+        by_url.setdefault(canonicalize_url(str(l.apply_url)), []).append(l)
+
+    for group in by_url.values():
+        if len(group) < 2:
+            continue
+        curated = [l for l in group if AUTO_TAG not in l.tags]
+        live = [l for l in group if l.id in seen_ids]
+        if curated:
+            keep = min(curated, key=lambda l: l.id)          # human files always win
+        elif live:
+            keep = min(live, key=lambda l: l.id)             # the id a source produces now
+        else:                                                # all stale orphans
+            keep = min(group, key=lambda l: (l.status is not ApplicationStatus.OPEN, l.id))
+        for loser in group:
+            if loser is keep or AUTO_TAG not in loser.tags:  # never delete curated files
+                continue
+            if delete_listing(root, loser):
+                counters["pruned"] += 1
 
 
 def _close(listing: Internship, root: Path, today: date, counters: dict[str, int]) -> None:
