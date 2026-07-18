@@ -54,7 +54,7 @@
 | [Brex](../companies/brex.md) | 1/1 | software-engineering |
 | [ByteDance](../companies/bytedance.md) | 2/2 | ai |
 | [CACI](../companies/caci.md) | 1/1 | software-engineering |
-| [CTGT](../companies/ctgt.md) | 0/1 | software-engineering |
+| [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 2/4 | design, software-engineering |
 | [Capital One](../companies/capital-one.md) | 2/2 | software-engineering |
 | [Center for AI Safety](../companies/center-for-ai-safety.md) | 1/1 | research |
@@ -117,7 +117,7 @@
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
 | [Generac](../companies/generac.md) | 0/1 | software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
-| [General Motors](../companies/general-motors.md) | 1/1 | machine-learning |
+| [General Motors](../companies/general-motors.md) | 2/2 | machine-learning, research |
 | [GeoComply](../companies/geocomply.md) | 1/2 | software-engineering |
 | [Global Infrastructure](../companies/global-infrastructure.md) | 1/1 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 1/1 | software-engineering |
@@ -156,7 +156,7 @@
 | [Marmon Holdings](../companies/marmon-holdings.md) | 2/2 | data-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 2/2 | software-engineering |
 | [Marvell](../companies/marvell.md) | 0/1 | design |
-| [McKesson](../companies/mckesson.md) | 2/3 | ai, software-engineering |
+| [McKesson](../companies/mckesson.md) | 3/3 | ai, software-engineering |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 3/3 | ai, data-engineering, software-engineering |
 | [Meta](../companies/meta.md) | 16/16 | ai, machine-learning, research |
 | [Microchip Technology](../companies/microchip-technology.md) | 0/1 | software-engineering |
@@ -193,7 +193,7 @@
 | [Point72](../companies/point72.md) | 3/3 | quant, software-engineering |
 | [Poshmark](../companies/poshmark.md) | 1/1 | cloud |
 | [Pure Storage](../companies/pure-storage.md) | 1/1 | software-engineering |
-| [Pylon](../companies/pylon.md) | 0/1 | software-engineering |
+| [Pylon](../companies/pylon.md) | 1/1 | software-engineering |
 | [RFCUNY](../companies/rfcuny.md) | 0/2 | software-engineering |
 | [Rainmaker](../companies/rainmaker.md) | 1/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 1/1 | software-engineering |

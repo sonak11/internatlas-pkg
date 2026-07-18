@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "mckesson-ai-strategic-analytics-intern-2026",
+  "id": "general-motors-research-and-development-intern-research-development-2026",
   "company": {
-    "name": "McKesson",
-    "slug": "mckesson"
+    "name": "General Motors",
+    "slug": "general-motors"
   },
-  "role": "AI & Strategic Analytics Intern",
-  "category": "ai",
-  "apply_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114",
+  "role": "Research and Development Intern - Research & Development",
+  "category": "research",
+  "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mississauga",
-      "country": "ON"
+      "city": "Warren",
+      "state": "MI",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-14",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-06",
+    "discovered": "2026-07-18",
     "last_verified": "2026-07-18"
   },
   "status": "open",

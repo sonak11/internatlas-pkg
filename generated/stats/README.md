@@ -39,7 +39,7 @@ _Generated 2026-07-18_
 | machine-learning | 45 | `██` |
 | hardware | 40 | `█` |
 | embedded | 34 | `█` |
-| research | 31 | `█` |
+| research | 32 | `█` |
 | design | 21 | `█` |
 | product | 15 | `█` |
 | cloud | 12 | `█` |
@@ -86,7 +86,6 @@ _Generated 2026-07-18_
 - Ciena — Optical Modem Hardware Intern
 - City of Aurora — Water GIS Intern
 - Copart — Software Engineer Intern
-- CTGT — Software Engineer Intern
 - CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - DataRobot — Agentic AI Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
@@ -103,7 +102,6 @@ _Generated 2026-07-18_
 - Integrity — Research Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Marvell — Design Verification Engineer Intern
-- McKesson — AI & Strategic Analytics Intern
 - Microchip Technology — Applications Engineering Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
@@ -114,7 +112,6 @@ _Generated 2026-07-18_
 - NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NXP Semiconductors — Digital Physical Design Intern - P&R
 - PennState University — Research and Development Engineering Intern
-- Pylon — Software Engineer Intern
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
