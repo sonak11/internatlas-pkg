@@ -73,11 +73,29 @@ _Generated 2026-07-18_
 ## Recently closed
 
 - Accenture — Technology Apprentice Intern
+- Altera Corporation — AI Software Development Engineer Intern
+- Amentum — Spaceflight Hardware Intern
+- Chevron Corporation — Earth Science Intern
+- Copart — Software Engineer Intern
+- DataRobot — Agentic AI Intern
+- Ensemble Health Partners — Data Scientist Intern
+- Ensemble Health Partners — Engineering Excellence Intern
+- GE Aerospace — Engineer Intern
 - GeoComply — Full Stack Developer Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
+- National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
+- NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
+- NVIDIA — Java Engineer Intern
+- NVIDIA — PhD Software Engineer Intern - Decision Intelligence
+- NXP Semiconductors — Digital Physical Design Intern - P&R
+- PennState University — Research and Development Engineering Intern
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
+- Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
+- Salesforce — Associate Product Manager Intern - Associate Product Manager
+- Schweitzer Engineering Laboratories — Software Engineering Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
+- Tencent — Research Intern - Video World Models - Research & ML Systems
