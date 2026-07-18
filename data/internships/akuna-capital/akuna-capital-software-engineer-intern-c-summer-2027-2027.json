@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "akuna-capital-software-engineer-intern-c-summer-2027-2027",
+  "company": {
+    "name": "Akuna Capital",
+    "slug": "akuna-capital",
+    "career_page": "https://akunacapital.com/careers"
+  },
+  "role": "Software Engineer Intern - C++, Summer 2027",
+  "category": "quant",
+  "apply_url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-13",
+    "discovered": "2026-07-18",
+    "last_verified": "2026-07-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

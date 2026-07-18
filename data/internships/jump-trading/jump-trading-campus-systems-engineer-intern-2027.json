@@ -3,18 +3,18 @@
   "id": "jump-trading-campus-systems-engineer-intern-2027",
   "company": {
     "name": "Jump Trading",
-    "slug": "jump-trading"
+    "slug": "jump-trading",
+    "career_page": "https://www.jumptrading.com/careers"
   },
-  "role": "Campus Systems Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+  "role": "Campus Systems Engineer (Intern)",
+  "category": "quant",
+  "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "London",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-10",
+    "posted": "2026-07-13",
     "discovered": "2026-07-17",
-    "last_verified": "2026-07-17"
+    "last_verified": "2026-07-18"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

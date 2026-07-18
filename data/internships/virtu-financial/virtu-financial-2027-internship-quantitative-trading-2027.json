@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "virtu-financial-2027-internship-quantitative-trading-2027",
+  "company": {
+    "name": "Virtu Financial",
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
+  },
+  "role": "2027 Internship - Quantitative Trading",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8547254002",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Dublin",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-01",
+    "discovered": "2026-07-18",
+    "last_verified": "2026-07-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "id": "ramp-software-engineer-internship-android-2027",
+  "company": {
+    "name": "Ramp",
+    "slug": "ramp",
+    "career_page": "https://ramp.com/careers"
+  },
+  "role": "Software Engineer Internship, Android",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "remote",
+  "locations": [],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2025-08-07",
+    "discovered": "2026-07-18",
+    "last_verified": "2026-07-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

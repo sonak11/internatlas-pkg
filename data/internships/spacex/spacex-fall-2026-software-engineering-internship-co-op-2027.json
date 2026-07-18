@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "spacex-fall-2026-software-engineering-internship-co-op-2027",
+  "company": {
+    "name": "SpaceX",
+    "slug": "spacex",
+    "career_page": "https://www.spacex.com/careers"
+  },
+  "role": "Fall 2026 Software Engineering Internship/Co-op",
+  "category": "hardware",
+  "apply_url": "https://boards.greenhouse.io/spacex/jobs/8403219002?gh_jid=8403219002",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Flexible",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-03-16",
+    "discovered": "2026-07-18",
+    "last_verified": "2026-07-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

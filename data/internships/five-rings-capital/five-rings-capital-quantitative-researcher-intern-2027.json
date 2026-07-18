@@ -15,6 +15,10 @@
     {
       "city": "NYC",
       "country": "USA"
+    },
+    {
+      "city": "New York",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -43,7 +47,7 @@
   "dates": {
     "posted": "2026-07-14",
     "discovered": "2026-07-17",
-    "last_verified": "2026-07-17"
+    "last_verified": "2026-07-18"
   },
   "status": "open",
   "tags": [

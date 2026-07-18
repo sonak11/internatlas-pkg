@@ -15,6 +15,10 @@
     {
       "city": "London",
       "country": "UK"
+    },
+    {
+      "city": "Amsterdam",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -43,7 +47,7 @@
   "dates": {
     "posted": "2026-07-06",
     "discovered": "2026-07-17",
-    "last_verified": "2026-07-17"
+    "last_verified": "2026-07-18"
   },
   "status": "open",
   "tags": [

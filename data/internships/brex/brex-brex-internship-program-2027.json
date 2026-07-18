@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "brex-brex-internship-program-2027",
+  "company": {
+    "name": "Brex",
+    "slug": "brex",
+    "career_page": "https://www.brex.com/careers"
+  },
+  "role": "Brex Internship Program",
+  "category": "software-engineering",
+  "apply_url": "https://www.brex.com/careers/8578067002?gh_jid=8578067002",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "São Paulo",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-06-03",
+    "discovered": "2026-07-18",
+    "last_verified": "2026-07-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

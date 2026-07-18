@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "id": "scale-ai-technical-advisor-specialist-part-time-internship-2027",
+  "company": {
+    "name": "Scale AI",
+    "slug": "scale-ai",
+    "career_page": "https://scale.com/careers"
+  },
+  "role": "Technical Advisor Specialist (Part-Time Internship)",
+  "category": "ai",
+  "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2025-09-22",
+    "discovered": "2026-07-18",
+    "last_verified": "2026-07-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "pure-storage-sw-engineer-internship-2027",
+  "company": {
+    "name": "Pure Storage",
+    "slug": "pure-storage",
+    "career_page": "https://www.purestorage.com/company/careers.html"
+  },
+  "role": "SW Engineer Internship",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7996475",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Prague",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-06-25",
+    "discovered": "2026-07-18",
+    "last_verified": "2026-07-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

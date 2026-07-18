@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**29** tracked · **29** open now
+**31** tracked · **31** open now
 
 ## Current openings
 
@@ -10,12 +10,14 @@
 |---|---|---|---|---|---|---|---|
 | [Abundant](generated/companies/abundant.md) | [Software Engineering Intern, Research Focused](https://www.workatastartup.com/jobs/94634) | San Francisco, CA | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
 | [AMAROK Security](generated/companies/amarok-security.md) | [Research and Development Intern](https://job-boards.greenhouse.io/amarok/jobs/6018661004) | Columbia, SC | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
-| [Block](generated/companies/block.md) | [Applied Research Intern Co-op](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | Toronto | Onsite | 2026-06-09 | Rolling | 🟢 Open | ❔ |
-| [Block](generated/companies/block.md) | [Applied Research Intern PhD / Graduate Co-op](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | Oakland, CA | Onsite | 2026-06-09 | Rolling | 🟢 Open | ❔ |
+| [Block](generated/companies/block.md) | [Applied Research Intern Co-op](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | Toronto +1 | Onsite | 2026-06-09 | Rolling | 🟢 Open | ❔ |
+| [Block](generated/companies/block.md) | [Applied Research Intern PhD / Graduate Co-op](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | Oakland, CA +1 | Onsite | 2026-06-09 | Rolling | 🟢 Open | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000136313549) | Sunnyvale, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [Center for AI Safety](generated/companies/center-for-ai-safety.md) | [Research Engineer Intern](https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4/apply) | SF | Onsite | 2026-03-09 | Rolling | 🟢 Open | ❔ |
 | [Cohere](generated/companies/cohere.md) | [Research Internship](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | Montreal +3 | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❔ |
+| [Databricks](generated/companies/databricks.md) | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | San Francisco | Onsite | 2023-11-07 | Rolling | 🟢 Open | ❔ |
 | [Integrity](generated/companies/integrity.md) | [Research Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284) | Minneapolis, MN | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
+| [Jump Trading](generated/companies/jump-trading.md) | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London | Onsite | 2025-10-29 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - 3D Vision & World Simulation](https://www.metacareers.com/jobs/2839011673109571) | Redmond, WA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | Redmond, WA | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Language & Multimodal Foundations](https://www.metacareers.com/jobs/24536664159369645) | Seattle, WA +2 | Onsite | 2026-05-05 | Rolling | 🟢 Open | ❔ |
@@ -50,7 +52,9 @@
 - Bosch Home Comfort (1)
 - Center for AI Safety (1)
 - Cohere (1)
+- Databricks (1)
 - Integrity (1)
+- Jump Trading (1)
 - PennState University (1)
 - Pika (1)
 - Trata (1)

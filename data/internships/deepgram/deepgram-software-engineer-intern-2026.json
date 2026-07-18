@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "id": "deepgram-software-engineer-intern-2026",
+  "company": {
+    "name": "Deepgram",
+    "slug": "deepgram"
+  },
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "remote",
+  "locations": [],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-17",
+    "discovered": "2026-07-18",
+    "last_verified": "2026-07-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

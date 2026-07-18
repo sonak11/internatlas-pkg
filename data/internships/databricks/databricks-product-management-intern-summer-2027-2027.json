@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "databricks-product-management-intern-summer-2027-2027",
+  "company": {
+    "name": "Databricks",
+    "slug": "databricks",
+    "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+  },
+  "role": "Product Management Intern (Summer 2027)",
+  "category": "product",
+  "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Bellevue",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2023-08-17",
+    "discovered": "2026-07-18",
+    "last_verified": "2026-07-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}
