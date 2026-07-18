@@ -23,33 +23,40 @@ jobs:
           cache: pip
       - run: pip install -e .
 
-      - name: Pull live postings from ATS boards + community feeds
-        run: internatlas sync
-
-      - name: Validate the updated tree
-        run: internatlas validate
-
-      - name: Regenerate README, pages, indexes, stats + exports
-        run: internatlas generate
-
-      - name: Commit & push (rebase-retry to survive concurrent runs)
+      # One atomic step: on every attempt we rebuild on top of whatever is
+      # currently on main, so a concurrent push can never cause a merge
+      # conflict. sync/validate/generate are deterministic, so redoing them on
+      # the latest main is always correct.
+      - name: Sync, validate, regenerate & push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ README.md generated/
-          if git diff --cached --quiet; then
-            echo "No changes this hour."
-            exit 0
-          fi
-          git commit -m "chore: hourly sync $(date -u '+%F %H:%M') UTC [skip ci]"
-          # Another run may have pushed while we worked — rebase and retry a few times.
+          branch="${GITHUB_REF_NAME}"
           for attempt in 1 2 3 4 5; do
-            if git push; then
+            echo "── attempt $attempt ──"
+            git fetch --quiet origin "$branch"
+            git reset --hard "origin/$branch"
+
+            internatlas sync
+            if ! internatlas validate; then
+              echo "::error::Validation failed after sync — not committing."
+              exit 1
+            fi
+            internatlas generate
+
+            git add data/ README.md generated/
+            if git diff --cached --quiet; then
+              echo "No changes this hour."
+              exit 0
+            fi
+            git commit -m "chore: hourly sync $(date -u '+%F %H:%M') UTC [skip ci]"
+
+            if git push origin "HEAD:$branch"; then
               echo "Pushed on attempt $attempt."
               exit 0
             fi
-            echo "Push $attempt failed; rebasing on latest main…"
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            echo "Push rejected (someone pushed first) — rebuilding on fresh main."
+            sleep $((RANDOM % 6 + 3))
           done
           echo "::error::Could not push after 5 attempts."
           exit 1
