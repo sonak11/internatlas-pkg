@@ -77,3 +77,4 @@ _Generated 2026-07-18_
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
+- Tesla — Software Integration Engineer Intern - Software Integration Engineer - Service Tooling

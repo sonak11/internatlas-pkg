@@ -638,7 +638,6 @@
 - Tesla — [Software Engineer Intern, Vehicle UI Development](https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-ui-development-fall-2026-270063)
 - Tesla — [Software Engineering Intern - Software Engineering - Service Engineering](https://www.tesla.com/careers/search/job/266119)
 - Tesla — [Software Integration Engineer Intern - Software Integration Engineer - Optimus](https://www.tesla.com/careers/search/job/269809)
-- Tesla — [Software Integration Engineer Intern - Software Integration Engineer - Service Tooling](https://www.tesla.com/careers/search/job/271866)
 - Tesla — [Software Integration Engineer Intern, AI Platforms](https://www.tesla.com/careers/search/job/247873?source=Indeed&source=Indeed&tags=organicjob)
 - Tesla — [Software Integration Engineer Intern, Energy Engineering](https://www.tesla.com/careers/search/job/250807)
 - Tesla — [Software Machine Learning Engineer Intern - Reliability Energy Engineering](https://www.tesla.com/careers/search/job/272619)
