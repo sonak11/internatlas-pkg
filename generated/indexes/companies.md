@@ -44,7 +44,7 @@
 | [Bank of Montreal](../companies/bank-of-montreal.md) | 2/2 | data-science |
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
 | [Beacon Software](../companies/beacon-software.md) | 1/1 | software-engineering |
-| [BlackRock](../companies/blackrock.md) | 0/1 | software-engineering |
+| [BlackRock](../companies/blackrock.md) | 2/2 | software-engineering |
 | [Blackstone](../companies/blackstone.md) | 0/1 | quant |
 | [Block](../companies/block.md) | 2/2 | research |
 | [Blue Cross Blue Shield of Michigan](../companies/blue-cross-blue-shield-of-michigan.md) | 1/1 | software-engineering |
@@ -74,7 +74,7 @@
 | [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 1/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
-| [Copart](../companies/copart.md) | 0/1 | software-engineering |
+| [Copart](../companies/copart.md) | 3/3 | software-engineering |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
 | [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
@@ -210,7 +210,7 @@
 | [Rockwell Automation](../companies/rockwell-automation.md) | 0/2 | embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 0/1 | software-engineering |
 | [SOTI](../companies/soti.md) | 3/3 | data-science, product |
-| [Salesforce](../companies/salesforce.md) | 1/3 | product, software-engineering |
+| [Salesforce](../companies/salesforce.md) | 3/3 | product, software-engineering |
 | [Samsung Research America](../companies/samsung-research-america.md) | 3/3 | ai, machine-learning, software-engineering |
 | [Sandhills Global](../companies/sandhills-global.md) | 1/1 | software-engineering |
 | [Saronic](../companies/saronic.md) | 2/2 | ai, software-engineering |
@@ -241,7 +241,7 @@
 | [TETRAMEM](../companies/tetramem.md) | 1/1 | embedded |
 | [TMEIC](../companies/tmeic.md) | 1/1 | machine-learning |
 | [TMX Group](../companies/tmx-group.md) | 1/1 | software-engineering |
-| [Tencent](../companies/tencent.md) | 2/4 | machine-learning, research |
+| [Tencent](../companies/tencent.md) | 4/4 | machine-learning, research |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/2 | ai, design |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
 | [Tesla](../companies/tesla.md) | 97/97 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |

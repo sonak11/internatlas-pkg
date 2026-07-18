@@ -33,7 +33,7 @@ _Generated 2026-07-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 331 | `████████████` |
+| software-engineering | 334 | `████████████` |
 | quant | 87 | `███` |
 | ai | 70 | `██` |
 | machine-learning | 45 | `██` |
@@ -76,7 +76,6 @@ _Generated 2026-07-18_
 - Altera Corporation — AI Software Development Engineer Intern
 - Amentum — Spaceflight Hardware Intern
 - Arrowstreet Capital — Quantitative Researcher Intern
-- BlackRock — Global Product Intern
 - Blackstone — Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
@@ -85,7 +84,6 @@ _Generated 2026-07-18_
 - Chevron Corporation — Software Engineer Intern - Information Technology - Software Engineer
 - Ciena — Optical Modem Hardware Intern
 - City of Aurora — Water GIS Intern
-- Copart — Software Engineer Intern
 - DataRobot — Agentic AI Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Ensemble Health Partners — Data Scientist Intern
@@ -111,10 +109,6 @@ _Generated 2026-07-18_
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
-- Salesforce — Associate Product Manager Intern - Associate Product Manager
-- Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Schweitzer Engineering Laboratories — Software Engineering Intern
 - Sentara Health — Enterprise Data & AI Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
-- Tencent — Research Intern - Video World Models - Research & ML Systems
-- Tencent — Research Intern - Video World Models - Research & ML Systems

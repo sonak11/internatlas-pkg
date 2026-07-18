@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tencent-research-intern-video-world-models-research-ml-systems-2026-ef917d",
+  "id": "copart-software-engineer-intern-2026-c30186",
   "company": {
-    "name": "Tencent",
-    "slug": "tencent"
+    "name": "Copart",
+    "slug": "copart"
   },
-  "role": "Research Intern - Video World Models - Research & ML Systems",
-  "category": "machine-learning",
-  "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109897",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -26,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -44,7 +43,7 @@
   },
   "dates": {
     "posted": "2026-07-15",
-    "discovered": "2026-07-17",
+    "discovered": "2026-07-18",
     "last_verified": "2026-07-18"
   },
   "status": "open",

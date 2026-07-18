@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tencent-research-intern-video-world-models-research-ml-systems-2026-ef917d",
+  "id": "blackrock-global-product-intern-2026-7dff7c",
   "company": {
-    "name": "Tencent",
-    "slug": "tencent"
+    "name": "BlackRock",
+    "slug": "blackrock"
   },
-  "role": "Research Intern - Video World Models - Research & ML Systems",
-  "category": "machine-learning",
-  "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
+  "role": "Global Product Intern",
+  "category": "software-engineering",
+  "apply_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Wilmington",
+      "state": "DE",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -44,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-07-15",
-    "discovered": "2026-07-17",
+    "discovered": "2026-07-18",
     "last_verified": "2026-07-18"
   },
   "status": "open",

@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-18",
-  "count": 707,
+  "count": 710,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4369,6 +4369,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "blackrock-global-product-intern-2026-7dff7c",
+      "company": {
+        "name": "BlackRock",
+        "slug": "blackrock"
+      },
+      "role": "Global Product Intern",
+      "category": "software-engineering",
+      "apply_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Wilmington",
+          "state": "DE",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-15",
+        "discovered": "2026-07-18",
+        "last_verified": "2026-07-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "blackrock-global-product-intern-2026",
       "company": {
         "name": "BlackRock",
@@ -4412,7 +4464,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7657,7 +7709,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "copart-software-engineer-intern-2026",
+      "id": "copart-software-engineer-intern-2026-2ceb13",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-15",
+        "discovered": "2026-07-18",
+        "last_verified": "2026-07-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "copart-software-engineer-intern-2026-c30186",
       "company": {
         "name": "Copart",
         "slug": "copart"
@@ -7700,10 +7804,64 @@
       },
       "dates": {
         "posted": "2026-07-15",
+        "discovered": "2026-07-18",
+        "last_verified": "2026-07-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "copart-software-engineer-intern-2026",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-15",
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25836,7 +25994,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25889,7 +26047,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29786,7 +29944,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29841,7 +29999,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
