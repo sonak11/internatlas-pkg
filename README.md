@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-224-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-222-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-271-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-8-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-20-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--07--18%205:56%20PM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-224-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-222-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-271-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-8-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-20-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--07--18%206:56%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
