@@ -48,8 +48,21 @@ def _is_headline(l: Internship) -> bool:
     return l.season is HEADLINE_SEASON and l.year == HEADLINE_YEAR
 
 
+try:
+    from zoneinfo import ZoneInfo
+    _EASTERN = ZoneInfo("America/New_York")   # handles EST/EDT automatically
+except Exception:  # pragma: no cover - only if the tz database is missing
+    from datetime import timedelta
+    _EASTERN = timezone(timedelta(hours=-5), "EST")
+
+
+def _now_eastern() -> datetime:
+    return datetime.now(_EASTERN)
+
+
 def _sync_stamp() -> str:
-    return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    # e.g. "2026-07-17 3:38 PM EDT" — %Z resolves to EDT (summer) or EST (winter).
+    return _now_eastern().strftime("%Y-%m-%d %-I:%M %p %Z")
 
 
 def _badges(stats: RepoStats, listings: list[Internship]) -> str:
@@ -60,7 +73,7 @@ def _badges(stats: RepoStats, listings: list[Internship]) -> str:
 
     headline = [l for l in listings if _is_headline(l)]
     headline_open = sum(1 for l in headline if l.is_open)
-    updated = datetime.now(timezone.utc).strftime("%Y--%m--%d %H:%M")
+    updated = _now_eastern().strftime("%Y-%m-%d %-I:%M %p %Z")
     return " ".join([
         badge(f"summer {HEADLINE_YEAR}", str(len(headline)), "blue"),
         badge("open now", str(headline_open or stats.open), "brightgreen"),
@@ -68,7 +81,7 @@ def _badges(stats: RepoStats, listings: list[Internship]) -> str:
         badge("visa sponsors", str(len(stats.sponsoring_companies)), "orange"),
         badge("remote roles", str(stats.remote_count), "teal"),
         badge("sync", "hourly", "success"),
-        badge("updated", f"{updated} UTC", "lightgrey"),
+        badge("updated", updated, "lightgrey"),
     ])
 
 
