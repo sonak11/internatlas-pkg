@@ -100,7 +100,6 @@ _Generated 2026-07-19_
 - Hitachi — Software Analyst Intern
 - Hitachi — Software Analyst Intern
 - Integrity — Research Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Marvell — Design Verification Engineer Intern
 - Microchip Technology — Applications Engineering Intern
