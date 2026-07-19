@@ -77,7 +77,7 @@
 | [Copart](../companies/copart.md) | 3/3 | software-engineering |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
-| [CuspAI](../companies/cuspai.md) | 0/1 | software-engineering |
+| [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
 | [Cybernetic Labs](../companies/cybernetic-labs.md) | 3/3 | software-engineering |
 | [DE Shaw](../companies/de-shaw.md) | 1/1 | software-engineering |
 | [DNV](../companies/dnv.md) | 1/1 | ai |
