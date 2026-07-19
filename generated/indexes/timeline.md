@@ -296,7 +296,6 @@
 - Kudu Dynamics — [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707)
 - Lawrence Livermore National Laboratory (LLNL) — [Computing Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801396)
 - Lawrence Livermore National Laboratory (LLNL) — [Computing Undergraduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801386)
-- LexisNexis Risk Solutions — [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1)
 - LiveRamp — [Software Engineer Intern, Pixel Serving](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201)
 - Mackenzie Investments — [Data Science and AI Specialist Intern - Investment Management - Fundamental Equity](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false)
 - Markem-Imaje — [Software Engineer Intern](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033)
