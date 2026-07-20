@@ -78,6 +78,7 @@ _Generated 2026-07-20_
 - Arrowstreet Capital — Quantitative Researcher Intern
 - Bank of Montreal — Data Scientist Co-op/Internship - Months
 - Bank of Montreal — Data Scientist Co-op/Internship - Months
+- BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - Blackstone — Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
@@ -100,6 +101,7 @@ _Generated 2026-07-20_
 - Hitachi — Software Analyst Intern
 - Hitachi — Software Analyst Intern
 - Integrity — Research Intern
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Marvell — Design Verification Engineer Intern
 - Microchip Technology — Applications Engineering Intern
