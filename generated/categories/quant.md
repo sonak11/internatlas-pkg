@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**88** tracked · **86** open now
+**91** tracked · **89** open now
 
 ## Current openings
 
@@ -17,6 +17,9 @@
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Portfolio Implementation – Trading and Portfolio Finance Analyst Intern](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Greenwich, CT | Onsite | 2026-05-15 | Rolling | 🟢 Open | ❔ |
 | [Aquatic Capital Management](generated/companies/aquatic-capital-management.md) | [Quantitative Researcher – Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | London +1 | Onsite | 2026-04-01 | Rolling | 🟢 Open | ❔ |
 | [Barclays](generated/companies/barclays.md) | [Markets Quantitative Analyst Summer Internship 2027 New York](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | New York, NY | Onsite | 2025-12-02 | Rolling | 🟢 Open | ❔ |
+| [Chevron Corporation](generated/companies/chevron-corporation.md) | [Supply & Trading TAMU TRIP Program Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072487) | Houston, TX | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
+| [Chevron Corporation](generated/companies/chevron-corporation.md) | [Supply & Trading TRIP Program Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072485) | Houston, TX | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
+| [Chicago Trading Company](generated/companies/chicago-trading-company.md) | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Chicago, IL | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Citadel](generated/companies/citadel.md) | [Investment & Trading Intern](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | London +1 | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Citadel](generated/companies/citadel.md) | [Quantitative Trader: Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | NYC | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [Cubist Systematic Strategies](generated/companies/cubist-systematic-strategies.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002) | New York, NY | Onsite | 2026-05-23 | Rolling | 🟢 Open | ❔ |
@@ -106,6 +109,7 @@
 - Walleye Capital (6)
 - Optiver (4)
 - Virtu Financial (4)
+- Chevron Corporation (2)
 - Citadel (2)
 - Five Rings Capital (2)
 - Hudson River Trading (2)
@@ -115,6 +119,7 @@
 - AQR Capital Management (1)
 - Aquatic Capital Management (1)
 - Barclays (1)
+- Chicago Trading Company (1)
 - Cubist Systematic Strategies (1)
 - DRW (1)
 - Flow Traders (1)

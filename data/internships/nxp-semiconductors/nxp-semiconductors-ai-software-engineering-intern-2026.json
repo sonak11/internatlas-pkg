@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cloudflare-eiam-business-enablement-operations-intern-fall-2026-2027",
+  "id": "nxp-semiconductors-ai-software-engineering-intern-2026",
   "company": {
-    "name": "Cloudflare",
-    "slug": "cloudflare",
-    "career_page": "https://www.cloudflare.com/careers"
+    "name": "NXP Semiconductors",
+    "slug": "nxp-semiconductors"
   },
-  "role": "EIAM Business Enablement & Operations Intern (Fall 2026)",
-  "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479",
-  "season": "summer",
-  "year": 2027,
+  "role": "AI / Software Engineering Intern",
+  "category": "ai",
+  "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "In-Office",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-17",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-20",
+    "discovered": "2026-07-20",
     "last_verified": "2026-07-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

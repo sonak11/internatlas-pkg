@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**71** tracked · **66** open now
+**73** tracked · **68** open now
 
 ## Current openings
 
@@ -17,6 +17,7 @@
 | [Bosch](generated/companies/bosch.md) | [LLM & Agentic AI R&D Intern](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | Sunnyvale, CA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ✅ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553917136512076050/detail) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553916190126524680/detail) | Seattle, WA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
+| [Cirrus Logic](generated/companies/cirrus-logic.md) | [AI Business Analytics Co-op Intern](https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply) | Austin, TX | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Embedded Software AI Intern Co-op](https://jobs.eu.lever.co/cirrus/3d6df577-91f6-4b58-9e7f-c982e49ff515/apply) | Austin, TX | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [AI Builder Intern - Global Customer Engineering - Service Sales](https://boards.greenhouse.io/cloudflare/jobs/8044395) | London | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | In-Office | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
@@ -45,6 +46,7 @@
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | New York, NY | Onsite | 2025-12-11 | Rolling | 🟢 Open | ❌ |
 | [Notion](generated/companies/notion.md) | [Software Engineer, AI Intern](https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933) | San Francisco, CA +1 | Onsite | 2025-08-08 | Rolling | 🟢 Open | ✅ |
 | [Nuro](generated/companies/nuro.md) | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | Mountain View | Onsite | 2025-10-22 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [AI / Software Engineering Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807) | Austin, TX | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [onsemi](generated/companies/onsemi.md) | [AI & Data Analytics Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878) | Scottsdale, AZ | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Data Engineering Intern - AI & Analytics](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application) | Palo Alto, CA | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | [Samsung Research America](generated/companies/samsung-research-america.md) | [Computer Vision/AI Intern - Computer Vision/AI](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002) | Mountain View, CA | Onsite | 2026-05-27 | Rolling | 🟢 Open | ❔ |
@@ -90,13 +92,13 @@
 - Cloudflare (3)
 - Bosch (2)
 - ByteDance (2)
+- Cirrus Logic (2)
 - Scale AI (2)
 - 1X (1)
 - American Bureau of Shipping (1)
 - American Enterprise Institute (1)
 - Amwins (1)
 - Argmax (1)
-- Cirrus Logic (1)
 - Commercial Metals (1)
 - Cotiviti (1)
 - Delta Air Lines (1)
@@ -111,6 +113,7 @@
 - Medpace, Inc. (1)
 - Notion (1)
 - Nuro (1)
+- NXP Semiconductors (1)
 - onsemi (1)
 - Rivian and Volkswagen Group Technologies (1)
 - Samsung Research America (1)

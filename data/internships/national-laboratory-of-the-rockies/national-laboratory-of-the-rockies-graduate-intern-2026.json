@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cloudflare-eiam-business-enablement-operations-intern-fall-2026-2027",
+  "id": "national-laboratory-of-the-rockies-graduate-intern-2026",
   "company": {
-    "name": "Cloudflare",
-    "slug": "cloudflare",
-    "career_page": "https://www.cloudflare.com/careers"
+    "name": "National Laboratory of the Rockies",
+    "slug": "national-laboratory-of-the-rockies"
   },
-  "role": "EIAM Business Enablement & Operations Intern (Fall 2026)",
+  "role": "Graduate Intern",
   "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "In-Office",
+      "city": "Golden",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +43,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-17",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-20",
+    "discovered": "2026-07-20",
     "last_verified": "2026-07-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify",
+    "remote-available"
   ]
 }

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cloudflare-eiam-business-enablement-operations-intern-fall-2026-2027",
+  "id": "cirrus-logic-ai-business-analytics-co-op-intern-2026",
   "company": {
-    "name": "Cloudflare",
-    "slug": "cloudflare",
-    "career_page": "https://www.cloudflare.com/careers"
+    "name": "Cirrus Logic",
+    "slug": "cirrus-logic"
   },
-  "role": "EIAM Business Enablement & Operations Intern (Fall 2026)",
-  "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479",
-  "season": "summer",
-  "year": 2027,
+  "role": "AI Business Analytics Co-op Intern",
+  "category": "ai",
+  "apply_url": "https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "In-Office",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-17",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-20",
+    "discovered": "2026-07-20",
     "last_verified": "2026-07-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

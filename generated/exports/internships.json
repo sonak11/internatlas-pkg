@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-20",
-  "count": 718,
+  "count": 737,
   "internships": [
     {
       "schema_version": "1.0",
@@ -216,6 +216,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "accenture-software-engineer-intern-2026",
+      "company": {
+        "name": "Accenture",
+        "slug": "accenture"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00345312",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Albuquerque",
+          "state": "NM",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -4105,6 +4157,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "aveva-software-developer-intern-co-op-2026",
+      "company": {
+        "name": "AVEVA",
+        "slug": "aveva"
+      },
+      "role": "Software Developer Intern Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bank-of-montreal-data-scientist-co-op-internship-months-2026-3d2089",
       "company": {
         "name": "Bank of Montreal",
@@ -5941,6 +6048,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "chevron-corporation-intern-2026",
+      "company": {
+        "name": "Chevron Corporation",
+        "slug": "chevron-corporation"
+      },
+      "role": "Intern",
+      "category": "software-engineering",
+      "apply_url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program---Full-Time_R000072489",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "chevron-corporation-previous-intern-earth-scientist-2026",
       "company": {
         "name": "Chevron Corporation",
@@ -6043,6 +6202,218 @@
         "last_verified": "2026-07-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "chevron-corporation-supply-trading-tamu-trip-program-intern-2026",
+      "company": {
+        "name": "Chevron Corporation",
+        "slug": "chevron-corporation"
+      },
+      "role": "Supply & Trading TAMU TRIP Program Intern",
+      "category": "quant",
+      "apply_url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072487",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "chevron-corporation-supply-trading-trip-program-intern-2026",
+      "company": {
+        "name": "Chevron Corporation",
+        "slug": "chevron-corporation"
+      },
+      "role": "Supply & Trading TRIP Program Intern",
+      "category": "quant",
+      "apply_url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072485",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "chicago-trading-company-quant-trading-intern-2027",
+      "company": {
+        "name": "Chicago Trading Company",
+        "slug": "chicago-trading-company"
+      },
+      "role": "Quant Trading Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "chicago-trading-company-software-engineering-intern-2027",
+      "company": {
+        "name": "Chicago Trading Company",
+        "slug": "chicago-trading-company"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -6154,6 +6525,111 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ciena-photonic-hardware-intern-2026",
+      "company": {
+        "name": "Ciena",
+        "slug": "ciena"
+      },
+      "role": "Photonic Hardware Intern",
+      "category": "hardware",
+      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "circle-k-analyst-intern-global-fuels-2026",
+      "company": {
+        "name": "Circle K",
+        "slug": "circle-k"
+      },
+      "role": "Analyst Intern - Global Fuels",
+      "category": "software-engineering",
+      "apply_url": "https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Analyst-Intern---Global-Fuels_R606611",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "circleback-software-engineer-intern-2027",
       "company": {
         "name": "Circleback",
@@ -6195,6 +6671,58 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cirrus-logic-ai-business-analytics-co-op-intern-2026",
+      "company": {
+        "name": "Cirrus Logic",
+        "slug": "cirrus-logic"
+      },
+      "role": "AI Business Analytics Co-op Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
         "last_verified": "2026-07-20"
       },
       "status": "open",
@@ -6863,7 +7391,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -7935,6 +8463,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "copart-software-engineer-intern-2026-b163bc",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "copart-software-engineer-intern-2026-c30186",
       "company": {
         "name": "Copart",
@@ -8033,6 +8613,60 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "copart-technology-product-analyst-intern-2026",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "Technology Product Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110077",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
         "last_verified": "2026-07-20"
       },
       "status": "open",
@@ -9344,6 +9978,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ditto-ditto-intern-program-2026",
+      "company": {
+        "name": "Ditto",
+        "slug": "ditto"
+      },
+      "role": "Ditto Intern Program",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/ditto/cbece35a-bb1a-4c93-a866-510279b8756c/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -13159,6 +13845,58 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hirevue-data-science-intern-2026",
+      "company": {
+        "name": "HireVue",
+        "slug": "hirevue"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://jobs.smartrecruiters.com/HireVue/744000138728139",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Draper",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
         "last_verified": "2026-07-20"
       },
       "status": "open",
@@ -19835,6 +20573,62 @@
     },
     {
       "schema_version": "1.0",
+      "id": "national-laboratory-of-the-rockies-graduate-intern-2026",
+      "company": {
+        "name": "National Laboratory of the Rockies",
+        "slug": "national-laboratory-of-the-rockies"
+      },
+      "role": "Graduate Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Golden",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify",
+        "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "national-laboratory-of-the-rockies-graduate-intern-transportation-systems-analysis-2026",
       "company": {
         "name": "National Laboratory of the Rockies",
@@ -22220,6 +23014,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-ai-software-engineering-intern-2026",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "AI / Software Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -26335,6 +27181,61 @@
         "last_verified": "2026-07-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-machine-learning-researcher-intern-co-op-2026",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Machine Learning Researcher Intern/Co-op",
+      "category": "machine-learning",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37338,6 +38239,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "vega-investment-technologies-product-operations-intern-2026",
+      "company": {
+        "name": "Vega Investment Technologies",
+        "slug": "vega-investment-technologies"
+      },
+      "role": "Product Operations Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "verkada-technical-support-engineering-intern-fall-2026-2027",
       "company": {
         "name": "Verkada",
@@ -38424,6 +39376,85 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "western-digital-software-engineer-intern-2027",
+      "company": {
+        "name": "Western Digital",
+        "slug": "western-digital"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fremont",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
         "last_verified": "2026-07-20"
       },
       "status": "open",

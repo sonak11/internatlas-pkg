@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cloudflare-eiam-business-enablement-operations-intern-fall-2026-2027",
+  "id": "aveva-software-developer-intern-co-op-2026",
   "company": {
-    "name": "Cloudflare",
-    "slug": "cloudflare",
-    "career_page": "https://www.cloudflare.com/careers"
+    "name": "AVEVA",
+    "slug": "aveva"
   },
-  "role": "EIAM Business Enablement & Operations Intern (Fall 2026)",
+  "role": "Software Developer Intern Co-op",
   "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "In-Office",
+      "city": "Philadelphia",
+      "state": "PA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-17",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-20",
+    "discovered": "2026-07-20",
     "last_verified": "2026-07-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

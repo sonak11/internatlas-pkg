@@ -33,42 +33,42 @@ _Generated 2026-07-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 336 | `████████████` |
-| quant | 88 | `███` |
-| ai | 71 | `██` |
-| machine-learning | 45 | `██` |
-| hardware | 41 | `█` |
+| software-engineering | 347 | `████████████` |
+| quant | 91 | `███` |
+| ai | 73 | `██` |
+| machine-learning | 46 | `██` |
+| hardware | 42 | `█` |
 | embedded | 34 | `█` |
 | research | 32 | `█` |
 | design | 21 | `█` |
 | product | 15 | `█` |
 | cloud | 13 | `█` |
-| data-science | 11 | `█` |
+| data-science | 12 | `█` |
 | data-engineering | 8 | `█` |
 | security | 3 | `█` |
 
 ## Newest listings
 
+- 2026-07-20 — **Accenture**: [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00345312)
+- 2026-07-20 — **AVEVA**: [Software Developer Intern Co-op](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478)
 - 2026-07-20 — **Capital One**: [Data Science Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1)
 - 2026-07-20 — **Capital One**: [Master's Data Science Internship](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1)
+- 2026-07-20 — **Chevron Corporation**: [Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program---Full-Time_R000072489)
+- 2026-07-20 — **Chevron Corporation**: [Supply & Trading TAMU TRIP Program Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072487)
+- 2026-07-20 — **Chevron Corporation**: [Supply & Trading TRIP Program Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072485)
+- 2026-07-20 — **Chicago Trading Company**: [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005)
+- 2026-07-20 — **Chicago Trading Company**: [Software Engineering Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005)
+- 2026-07-20 — **Ciena**: [Photonic Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366)
+- 2026-07-20 — **Circle K**: [Analyst Intern - Global Fuels](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Analyst-Intern---Global-Fuels_R606611)
+- 2026-07-20 — **Cirrus Logic**: [AI Business Analytics Co-op Intern](https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply)
+- 2026-07-20 — **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079)
+- 2026-07-20 — **Copart**: [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110077)
+- 2026-07-20 — **Ditto**: [Ditto Intern Program](https://jobs.ashbyhq.com/ditto/cbece35a-bb1a-4c93-a866-510279b8756c/application?embed=true)
 - 2026-07-20 — **GE Healthcare**: [Engineering Development Program Intern - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1)
 - 2026-07-20 — **GE Healthcare**: [Engineering Development Program Intern - Software](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2)
+- 2026-07-20 — **HireVue**: [Data Science Intern](https://jobs.smartrecruiters.com/HireVue/744000138728139)
 - 2026-07-20 — **Hitachi Energy**: [Cloud & Data Specialist Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533)
-- 2026-07-20 — **Virtu Financial**: [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002)
-- 2026-07-20 — **Xsolla**: [AI-First Engineer Intern](https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply)
-- 2026-07-17 — **Altera Corporation**: [AI Software Development Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707)
-- 2026-07-17 — **Cloudflare**: [EIAM Business Enablement & Operations Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479)
-- 2026-07-17 — **Commercial Metals**: [AI Intern](https://jobs.cmc.com/job/Irving-AI-Intern-TX-75039/1410297800/?ats=successfactors)
-- 2026-07-17 — **Composio**: [Full-stack Intern](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true)
-- 2026-07-17 — **Deepgram**: [Software Engineer Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true)
-- 2026-07-17 — **Ensemble Health Partners**: [Data Scientist Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077)
-- 2026-07-17 — **Ensemble Health Partners**: [Engineering Excellence Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023)
-- 2026-07-17 — **Entergy**: [Power Delivery Intern](https://jobs.entergy.com/job/New-Orleans-Power-Delivery-Fall-2026-Intern-Loui/1410233500/?ats=successfactors)
-- 2026-07-17 — **Formlabs**: [Supply Chain Operations Software Intern](https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676)
-- 2026-07-17 — **Neuralink**: [R&D Materials Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7808233003)
-- 2026-07-17 — **Neuralink**: [R&D Materials Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003)
-- 2026-07-17 — **Solid Power**: [Product Development Intern](https://job-boards.greenhouse.io/solidpower/jobs/6118972004)
-- 2026-07-17 — **Viavi Solutions**: [Software Development Data Analytics Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1)
+- 2026-07-20 — **National Laboratory of the Rockies**: [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416)
 
 ## Recently closed
 
@@ -87,6 +87,7 @@ _Generated 2026-07-20_
 - Chevron Corporation — Software Engineer Intern - Information Technology - Software Engineer
 - Ciena — Optical Modem Hardware Intern
 - City of Aurora — Water GIS Intern
+- Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - DataRobot — Agentic AI Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Ensemble Health Partners — Data Scientist Intern

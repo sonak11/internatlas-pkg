@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cloudflare-eiam-business-enablement-operations-intern-fall-2026-2027",
+  "id": "rtx-machine-learning-researcher-intern-co-op-2026",
   "company": {
-    "name": "Cloudflare",
-    "slug": "cloudflare",
-    "career_page": "https://www.cloudflare.com/careers"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "EIAM Business Enablement & Operations Intern (Fall 2026)",
-  "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479",
-  "season": "summer",
-  "year": 2027,
+  "role": "Machine Learning Researcher Intern/Co-op",
+  "category": "machine-learning",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "In-Office",
+      "city": "Hartford",
+      "state": "CT",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-17",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-20",
+    "discovered": "2026-07-20",
     "last_verified": "2026-07-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

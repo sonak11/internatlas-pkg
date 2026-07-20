@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**41** tracked · **39** open now
+**42** tracked · **40** open now
 
 ## Current openings
 
@@ -16,6 +16,7 @@
 | [Astranis](generated/companies/astranis.md) | [FPGA Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4677337006) | SF | Onsite | 2026-04-30 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Intern](https://job-boards.greenhouse.io/astranis/jobs/4677338006) | SF | Onsite | 2026-04-30 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Hardware Design Intern - Software Defined Radio Team](https://job-boards.greenhouse.io/astranis/jobs/4691163006) | SF | Onsite | 2026-06-25 | Rolling | 🟢 Open | ❔ |
+| [Ciena](generated/companies/ciena.md) | [Photonic Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366) | Ottawa | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Figure](generated/companies/figure.md) | [Hardware Reliability Intern](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | San Jose, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware R&D Engineer Intern](https://careers.formlabs.com/job/7890746/apply/?gh_jid=7890746) | Cambridge, MA | Onsite | 2026-06-18 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | Cambridge, MA | Onsite | 2026-05-15 | Rolling | 🟢 Open | ❔ |
@@ -57,6 +58,7 @@
 - Anduril (4)
 - SpaceX (4)
 - Astranis (3)
+- Ciena (2)
 - Formlabs (2)
 - Hermeus (2)
 - IMC Trading (2)
@@ -66,4 +68,3 @@
 - GE Healthcare (1)
 - Persistent Systems (1)
 - Amentum (1)
-- Ciena (1)
