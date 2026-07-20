@@ -18318,7 +18318,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20229,7 +20229,7 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Fremont",
+          "city": "South San Francisco",
           "country": "USA"
         }
       ],
@@ -22324,7 +22324,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

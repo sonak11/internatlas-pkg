@@ -161,7 +161,7 @@
 | [Marmon Holdings](../companies/marmon-holdings.md) | 2/2 | data-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 2/2 | software-engineering |
 | [Marvell](../companies/marvell.md) | 0/1 | design |
-| [McKesson](../companies/mckesson.md) | 3/3 | ai, software-engineering |
+| [McKesson](../companies/mckesson.md) | 2/3 | ai, software-engineering |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 3/3 | ai, data-engineering, software-engineering |
 | [Meta](../companies/meta.md) | 16/16 | ai, machine-learning, research |
 | [Microchip Technology](../companies/microchip-technology.md) | 0/1 | software-engineering |
@@ -170,7 +170,7 @@
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
 | [NVIDIA](../companies/nvidia.md) | 8/9 | machine-learning, quant, research, security, software-engineering |
-| [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/2 | design, software-engineering |
+| [NXP Semiconductors](../companies/nxp-semiconductors.md) | 0/2 | design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 0/2 | software-engineering |
 | [Navy Federal](../companies/navy-federal.md) | 1/1 | software-engineering |

@@ -104,11 +104,13 @@ _Generated 2026-07-20_
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Marvell — Design Verification Engineer Intern
+- McKesson — Supply Chain Engineering and Analytics Intern
 - Microchip Technology — Applications Engineering Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - NVIDIA — PhD Research Intern - Security and Privacy
 - NXP Semiconductors — Digital Physical Design Intern - P&R
+- NXP Semiconductors — Digital Verification Engineer Intern
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
