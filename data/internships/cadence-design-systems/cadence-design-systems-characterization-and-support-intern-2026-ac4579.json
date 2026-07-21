@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tencent-research-intern-2026",
+  "id": "cadence-design-systems-characterization-and-support-intern-2026-ac4579",
   "company": {
-    "name": "Tencent",
-    "slug": "tencent"
+    "name": "Cadence Design Systems",
+    "slug": "cadence-design-systems"
   },
-  "role": "Research Intern",
-  "category": "research",
-  "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337",
+  "role": "Characterization and Support Intern",
+  "category": "software-engineering",
+  "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-2",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bellevue",
-      "state": "WA",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-01-21",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-07",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

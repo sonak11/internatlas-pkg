@@ -33,9 +33,9 @@ _Generated 2026-07-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 388 | `████████████` |
+| software-engineering | 391 | `████████████` |
 | quant | 94 | `███` |
-| ai | 81 | `███` |
+| ai | 81 | `██` |
 | machine-learning | 51 | `██` |
 | research | 43 | `█` |
 | hardware | 42 | `█` |
@@ -81,6 +81,7 @@ _Generated 2026-07-21_
 - Bank of Montreal — Data Scientist Co-op/Internship - Months
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - Blackstone — Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern
+- Bosch Home Comfort — Business Intelligence Intern
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Chevron Corporation — Earth Science Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
@@ -92,6 +93,8 @@ _Generated 2026-07-21_
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
+- Copart — Software Engineer Intern
+- Copart — Technology Product Analyst Intern
 - CTGT — Software Engineer Intern
 - CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - DataRobot — Agentic AI Intern
@@ -105,6 +108,7 @@ _Generated 2026-07-21_
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
+- GE Healthcare — Engineering Development Program Intern - Software
 - Generac — Engineering Intern
 - General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
@@ -128,15 +132,16 @@ _Generated 2026-07-21_
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - NeoSigma — Member of Technical Staff Intern
+- NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
-- NVIDIA — PhD Research Intern - System Software and I/O Architecture
+- NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NXP Semiconductors — Digital Physical Design Intern - P&R
 - NXP Semiconductors — Digital Verification Engineer Intern
 - Odin Dynamics, Inc — Engineering Intern
 - Pendulum Intelligence — Product Manager Intern
-- Pylon — Software Engineer Intern
+- PennState University — Research and Development Engineering Intern
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
@@ -144,7 +149,6 @@ _Generated 2026-07-21_
 - Rippling — Full Stack Software Engineer Intern
 - Rippling — Machine Learning Software Engineer Intern
 - Rippling — Software Engineer Intern - Backend Focused
-- Rise8 — Skillbridge Intern - Product Manager
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
@@ -162,6 +166,6 @@ _Generated 2026-07-21_
 - SpreeAI — Software Engineer Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Tencent — Research Intern
-- Tencent — Research Intern
+- Tencent — Research Intern - Video World Models - Research & ML Systems
 - Torch Technologies — Software Engineer Intern
 - Varda Space — Mission Software – Intern - Python
