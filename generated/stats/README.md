@@ -33,17 +33,17 @@ _Generated 2026-07-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 391 | `████████████` |
+| software-engineering | 393 | `████████████` |
 | quant | 96 | `███` |
-| ai | 81 | `██` |
-| machine-learning | 51 | `██` |
+| ai | 82 | `██` |
+| machine-learning | 52 | `██` |
 | research | 43 | `█` |
 | hardware | 42 | `█` |
-| embedded | 35 | `█` |
+| embedded | 36 | `█` |
 | design | 21 | `█` |
 | product | 18 | `█` |
-| cloud | 14 | `█` |
-| data-science | 12 | `█` |
+| cloud | 15 | `█` |
+| data-science | 13 | `█` |
 | data-engineering | 8 | `█` |
 | security | 4 | `█` |
 
@@ -75,14 +75,11 @@ _Generated 2026-07-21_
 - Accenture — Software Engineer Intern
 - Accenture — Technology Apprentice Intern
 - Altera Corporation — AI Software Development Engineer Intern
-- Amentum — Spaceflight Hardware Intern
 - Arrowstreet Capital — Quantitative Researcher Intern
 - Bank of Montreal — Data Scientist Co-op/Internship - Months
 - Bank of Montreal — Data Scientist Co-op/Internship - Months
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
-- Blackstone — Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern
 - Bosch Home Comfort — Business Intelligence Intern
-- Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Chevron Corporation — Earth Science Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
 - Chevron Corporation — Software Engineer Intern - Information Technology - Software Engineer
@@ -111,12 +108,10 @@ _Generated 2026-07-21_
 - GeoComply — Full Stack Developer Intern
 - Hendrick Motorsports — Racing Performance Engineer Intern
 - Hitachi — Software Analyst Intern
-- Hitachi — Software Analyst Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
 - Integrity — Research Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
-- Marvell — Design Verification Engineer Intern
 - McKesson — AI & Strategic Analytics Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Microchip Technology — Applications Engineering Intern
@@ -125,19 +120,14 @@ _Generated 2026-07-21_
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - NeoSigma — Member of Technical Staff Intern
-- NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
 - NXP Semiconductors — Digital Physical Design Intern - P&R
 - NXP Semiconductors — Digital Verification Engineer Intern
-- Odin Dynamics, Inc — Engineering Intern
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - Rippling — Full Stack Software Engineer Intern
-- Rippling — Machine Learning Software Engineer Intern
-- Rippling — Software Engineer Intern - Backend Focused
-- Rise8 — Skillbridge Intern - Product Manager
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "amentum-spaceflight-hardware-intern-2026",
+  "id": "national-laboratory-of-the-rockies-graduate-geospatial-data-science-intern-2026",
   "company": {
-    "name": "Amentum",
-    "slug": "amentum"
+    "name": "National Laboratory of the Rockies",
+    "slug": "national-laboratory-of-the-rockies"
   },
-  "role": "Spaceflight Hardware Intern",
-  "category": "hardware",
-  "apply_url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096",
+  "role": "Graduate Geospatial Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14338",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Golden",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -26,7 +26,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-16",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-04",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

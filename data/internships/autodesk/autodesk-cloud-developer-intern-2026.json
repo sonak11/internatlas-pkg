@@ -1,23 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "amentum-spaceflight-hardware-intern-2026",
+  "id": "autodesk-cloud-developer-intern-2026",
   "company": {
-    "name": "Amentum",
-    "slug": "amentum"
+    "name": "Autodesk",
+    "slug": "autodesk"
   },
-  "role": "Spaceflight Hardware Intern",
-  "category": "hardware",
-  "apply_url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096",
+  "role": "Cloud Developer Intern",
+  "category": "cloud",
+  "apply_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
   "season": "fall",
   "year": 2026,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "Houston",
-      "state": "TX",
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -25,9 +19,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +34,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-16",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-18",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

@@ -1,20 +1,30 @@
 {
   "schema_version": "1.0",
-  "id": "amentum-spaceflight-hardware-intern-2026",
+  "id": "moss-associates-construction-technologies-intern-2026",
   "company": {
-    "name": "Amentum",
-    "slug": "amentum"
+    "name": "Moss & Associates",
+    "slug": "moss-associates"
   },
-  "role": "Spaceflight Hardware Intern",
-  "category": "hardware",
-  "apply_url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096",
+  "role": "Construction Technologies Intern",
+  "category": "software-engineering",
+  "apply_url": "https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
+      "city": "McKinney",
       "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Lauderdale",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -25,9 +35,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +50,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-16",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-04",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",
