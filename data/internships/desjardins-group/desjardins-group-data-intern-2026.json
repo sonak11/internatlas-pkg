@@ -1,21 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "blackrock-global-product-intern-2026-7dff7c",
+  "id": "desjardins-group-data-intern-2026",
   "company": {
-    "name": "BlackRock",
-    "slug": "blackrock"
+    "name": "Desjardins Group",
+    "slug": "desjardins-group"
   },
-  "role": "Global Product Intern",
+  "role": "Data Intern",
   "category": "software-engineering",
-  "apply_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169",
+  "apply_url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Wilmington",
-      "state": "DE",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "QC"
+    },
+    {
+      "city": "Quebec City",
+      "country": "QC"
     }
   ],
   "compensation": {
@@ -25,7 +28,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +45,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-07-18",
+    "posted": "2026-05-11",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

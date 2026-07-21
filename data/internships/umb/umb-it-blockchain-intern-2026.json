@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "spreeai-mobile-software-engineer-intern-flagship-apps-ios-android-we-2026",
+  "id": "umb-it-blockchain-intern-2026",
   "company": {
-    "name": "SpreeAI",
-    "slug": "spreeai"
+    "name": "UMB",
+    "slug": "umb"
   },
-  "role": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
+  "role": "IT Blockchain Intern",
   "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
+  "apply_url": "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/IT-Blockchain-Intern_R-8444",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Kansas City",
+      "state": "MO",
       "country": "USA"
     }
   ],
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
+    "posted": "2026-06-13",
     "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

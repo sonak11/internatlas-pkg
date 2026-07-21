@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "spreeai-mobile-software-engineer-intern-flagship-apps-ios-android-we-2026",
+  "id": "autodesk-software-developer-intern-stagiaire-en-d-veloppement-logicie-2026",
   "company": {
-    "name": "SpreeAI",
-    "slug": "spreeai"
+    "name": "Autodesk",
+    "slug": "autodesk"
   },
-  "role": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
+  "role": "Software Developer Intern - Stagiaire en Développement Logiciel",
   "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
+  "apply_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Canada",
       "country": "USA"
     }
   ],
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
+    "posted": "2026-05-30",
     "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

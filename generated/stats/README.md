@@ -33,10 +33,10 @@ _Generated 2026-07-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 384 | `████████████` |
-| quant | 93 | `███` |
+| software-engineering | 387 | `████████████` |
+| quant | 94 | `███` |
 | ai | 81 | `███` |
-| machine-learning | 52 | `██` |
+| machine-learning | 51 | `██` |
 | research | 43 | `█` |
 | hardware | 42 | `█` |
 | embedded | 35 | `█` |
@@ -87,14 +87,22 @@ _Generated 2026-07-21_
 - Chevron Corporation — Previous Intern - Earth Scientist
 - Chevron Corporation — Software Engineer Intern - Information Technology - Software Engineer
 - Ciena — Optical Modem Hardware Intern
+- Cirrus Logic — AI Business Analytics Co-op Intern
 - City of Aurora — Water GIS Intern
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
+- Composio — Full-stack Intern
+- Copart — Software Engineer Intern
+- Copart — Software Engineer Intern
+- CTGT — Software Engineer Intern
+- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - DataRobot — Agentic AI Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
+- Duku AI — Tech Intern - Visiting
 - Ensemble Health Partners — Data Scientist Intern
 - Ensemble Health Partners — Engineering Excellence Intern
 - Environmental Defense Fund — Climate & Health Intern
 - GE Aerospace — Engineer Intern
+- GE Healthcare — Engineering Development Program Intern - Hardware
 - Generac — Engineering Intern
 - General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
@@ -102,27 +110,45 @@ _Generated 2026-07-21_
 - Hendrick Motorsports — Racing Performance Engineer Intern
 - Hitachi — Software Analyst Intern
 - Hitachi — Software Analyst Intern
+- Hitachi Energy — Cloud & Data Specialist Intern
 - Integrity — Research Intern
+- Kinaxis — Software Development Co-op/Intern - C++
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Marvell — Design Verification Engineer Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Microchip Technology — Applications Engineering Intern
+- Mobius Renewables — Software Engineer Intern
+- Moon — Software Engineer Intern - Data & Machine Learning
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
+- NVIDIA — Applied Research Intern - NLP
 - NVIDIA — PhD Research Intern - Security and Privacy
+- NVIDIA — PhD Research Intern - System Software and I/O Architecture
 - NXP Semiconductors — Digital Physical Design Intern - P&R
 - NXP Semiconductors — Digital Verification Engineer Intern
+- Odin Dynamics, Inc — Engineering Intern
+- Pendulum Intelligence — Product Manager Intern
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
+- Rippling — Full Stack Software Engineer Intern
+- Rippling — Machine Learning Software Engineer Intern
+- Rippling — Software Engineer Intern - Backend Focused
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
+- Salesforce — Associate Product Manager Intern - Associate Product Manager
+- Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Schweitzer Engineering Laboratories — Software Engineering Intern
 - Sentara Health — Enterprise Data & AI Intern
+- SOTI — Associate Product Manager Intern
+- SOTI — Data Scientist Intern
+- SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
+- SpreeAI — Software Engineer Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
+- Tencent — Research Intern
 - Torch Technologies — Software Engineer Intern
 - Varda Space — Mission Software – Intern - Python
