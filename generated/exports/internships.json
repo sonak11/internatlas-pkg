@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-21",
-  "count": 812,
+  "count": 816,
   "internships": [
     {
       "schema_version": "1.0",
@@ -1076,6 +1076,62 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "altasciences-process-innovation-product-management-intern-2026",
+      "company": {
+        "name": "Altasciences",
+        "slug": "altasciences"
+      },
+      "role": "Process Innovation Product Management Intern",
+      "category": "product",
+      "apply_url": "https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Laval",
+          "country": "QC"
+        },
+        {
+          "city": "Overland Park",
+          "state": "KS",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-04",
+        "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
       "status": "open",
@@ -3365,6 +3421,60 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "arrowstreet-capital-quantitative-developer-intern-2027",
+      "company": {
+        "name": "Arrowstreet Capital",
+        "slug": "arrowstreet-capital"
+      },
+      "role": "Quantitative Developer Intern",
+      "category": "quant",
+      "apply_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-10",
+        "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
       "status": "open",
@@ -7155,7 +7265,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8842,7 +8952,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9264,7 +9374,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10515,7 +10625,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20240,6 +20350,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "kbr-national-security-solutions-intern-nss-2026",
+      "company": {
+        "name": "KBR",
+        "slug": "kbr"
+      },
+      "role": "National Security Solutions Intern - Nss",
+      "category": "security",
+      "apply_url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Semiconductor-Research-Internship--Fall-2026-_R2126603",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Beavercreek",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-14",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "kinaxis-engineer-co-op-intern-data-analytics-2026",
       "company": {
         "name": "Kinaxis",
@@ -20283,7 +20445,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20334,7 +20496,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23145,7 +23307,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25631,7 +25793,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25686,7 +25848,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25961,7 +26123,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27658,7 +27820,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27710,7 +27872,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29821,7 +29983,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31124,7 +31286,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33513,7 +33675,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33564,7 +33726,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42606,10 +42768,6 @@
         {
           "city": "New York",
           "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -42792,6 +42950,59 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-internship-software-engineer-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "Internship - Software Engineer",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
       "status": "open",

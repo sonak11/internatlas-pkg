@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "pennstate-university-research-and-development-engineering-intern-2026",
+  "id": "arrowstreet-capital-quantitative-developer-intern-2027",
   "company": {
-    "name": "PennState University",
-    "slug": "pennstate-university"
+    "name": "Arrowstreet Capital",
+    "slug": "arrowstreet-capital"
   },
-  "role": "Research and Development Engineering Intern",
-  "category": "research",
-  "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
-  "season": "fall",
-  "year": 2026,
+  "role": "Quantitative Developer Intern",
+  "category": "quant",
+  "apply_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "State College",
-      "state": "PA",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-03-03",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-10",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

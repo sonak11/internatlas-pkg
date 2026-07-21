@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "pennstate-university-research-and-development-engineering-intern-2026",
+  "id": "kbr-national-security-solutions-intern-nss-2026",
   "company": {
-    "name": "PennState University",
-    "slug": "pennstate-university"
+    "name": "KBR",
+    "slug": "kbr"
   },
-  "role": "Research and Development Engineering Intern",
-  "category": "research",
-  "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
+  "role": "National Security Solutions Intern - Nss",
+  "category": "security",
+  "apply_url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Semiconductor-Research-Internship--Fall-2026-_R2126603",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "State College",
-      "state": "PA",
+      "city": "Beavercreek",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-03-03",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-14",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

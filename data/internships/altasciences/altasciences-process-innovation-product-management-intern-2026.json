@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "pennstate-university-research-and-development-engineering-intern-2026",
+  "id": "altasciences-process-innovation-product-management-intern-2026",
   "company": {
-    "name": "PennState University",
-    "slug": "pennstate-university"
+    "name": "Altasciences",
+    "slug": "altasciences"
   },
-  "role": "Research and Development Engineering Intern",
-  "category": "research",
-  "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
+  "role": "Process Innovation Product Management Intern",
+  "category": "product",
+  "apply_url": "https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "State College",
-      "state": "PA",
+      "city": "Laval",
+      "country": "QC"
+    },
+    {
+      "city": "Overland Park",
+      "state": "KS",
       "country": "USA"
     }
   ],
@@ -40,8 +44,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-03-03",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-04",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

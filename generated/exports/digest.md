@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-21
 
-## 🆕 New this week (159)
+## 🆕 New this week (161)
 
 - **AVEVA** — [Software Developer Intern Co-op](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) · software-engineering · —
 - **Accenture** — [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00345312) · software-engineering · —
@@ -91,6 +91,7 @@
 - **Hubs.is** — [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) · software-engineering · —
 - **Ignite Digital Services** — [Engineer/Scientist Intern](https://ignite-digital.com/careers/job-listings/?gh_jid=5348498008) · software-engineering · —
 - **Junior AI** — [Software Engineer Intern](https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891/application?embed=true) · software-engineering · —
+- **KBR** — [National Security Solutions Intern - Nss](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Semiconductor-Research-Internship--Fall-2026-_R2126603) · security · —
 - **Kirin** — [Quantitative Research Intern - Prediction Markets](https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a/application?embed=true) · quant · —
 - **Kirin** — [Software Engineer Intern - AI Agents + Devices](https://jobs.ashbyhq.com/kirin/38772f01-84fd-4f09-a36d-e7fa86341b99/application?embed=true) · ai · —
 - **Mackenzie Investments** — [Data Science and AI Specialist Intern - Investment Management - Fundamental Equity](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false) · ai · —
@@ -154,6 +155,7 @@
 - **Viavi Solutions** — [Software Development Data Analytics Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1) · software-engineering · —
 - **Virtu Financial** — [2027 Internship - Quantitative Strategist and Research Intern](https://job-boards.greenhouse.io/virtu/jobs/8631180002) · quant · —
 - **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) · quant · —
+- **Virtu Financial** — [Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) · quant · —
 - **Voloridge** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) · quant · —
 - **Voloridge** — [Quantitative Research Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) · quant · —
 - **Western Digital** — [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) · software-engineering · —

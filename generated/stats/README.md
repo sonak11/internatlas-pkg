@@ -34,18 +34,18 @@ _Generated 2026-07-21_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 391 | `████████████` |
-| quant | 94 | `███` |
+| quant | 96 | `███` |
 | ai | 81 | `██` |
 | machine-learning | 51 | `██` |
 | research | 43 | `█` |
 | hardware | 42 | `█` |
 | embedded | 35 | `█` |
 | design | 21 | `█` |
-| product | 17 | `█` |
+| product | 18 | `█` |
 | cloud | 14 | `█` |
 | data-science | 12 | `█` |
 | data-engineering | 8 | `█` |
-| security | 3 | `█` |
+| security | 4 | `█` |
 
 ## Newest listings
 
@@ -86,20 +86,16 @@ _Generated 2026-07-21_
 - Chevron Corporation — Earth Science Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
 - Chevron Corporation — Software Engineer Intern - Information Technology - Software Engineer
-- Cirrus Logic — AI Business Analytics Co-op Intern
 - City of Aurora — Water GIS Intern
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
-- Composio — Full-stack Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
-- Copart — Technology Product Analyst Intern
 - CTGT — Software Engineer Intern
 - CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - DataRobot — Agentic AI Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
-- Democratic National Committee — DNC Technology Intern
 - Duku AI — Tech Intern - Visiting
 - Ensemble Health Partners — Data Scientist Intern
 - Ensemble Health Partners — Engineering Excellence Intern
@@ -118,8 +114,6 @@ _Generated 2026-07-21_
 - Hitachi — Software Analyst Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
 - Integrity — Research Intern
-- Kinaxis — Engineer Co-op/Intern - Data & Analytics
-- Kinaxis — Software Development Co-op/Intern - C++
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Marvell — Design Verification Engineer Intern
@@ -128,20 +122,14 @@ _Generated 2026-07-21_
 - Microchip Technology — Applications Engineering Intern
 - Mobius Renewables — Software Engineer Intern
 - Moon — Software Engineer Intern - Backend & API
-- Moon — Software Engineer Intern - Data & Machine Learning
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - NeoSigma — Member of Technical Staff Intern
-- NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
-- NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
-- NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NXP Semiconductors — Digital Physical Design Intern - P&R
 - NXP Semiconductors — Digital Verification Engineer Intern
 - Odin Dynamics, Inc — Engineering Intern
-- Pendulum Intelligence — Product Manager Intern
-- PennState University — Research and Development Engineering Intern
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
@@ -149,11 +137,11 @@ _Generated 2026-07-21_
 - Rippling — Full Stack Software Engineer Intern
 - Rippling — Machine Learning Software Engineer Intern
 - Rippling — Software Engineer Intern - Backend Focused
+- Rise8 — Skillbridge Intern - Product Manager
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
 - RTX — Machine Learning Researcher Intern/Co-op
-- Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Schweitzer Engineering Laboratories — Software Engineering Intern
@@ -162,8 +150,6 @@ _Generated 2026-07-21_
 - SOTI — Data Scientist Intern
 - SOTI — Product Manager Intern - Sales Enablement Products
 - SpreeAI — Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI
-- SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
-- SpreeAI — Software Engineer Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Tencent — Research Intern
 - Tencent — Research Intern - Video World Models - Research & ML Systems

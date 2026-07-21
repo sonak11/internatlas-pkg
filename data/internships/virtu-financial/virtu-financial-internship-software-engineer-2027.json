@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "pennstate-university-research-and-development-engineering-intern-2026",
+  "id": "virtu-financial-internship-software-engineer-2027",
   "company": {
-    "name": "PennState University",
-    "slug": "pennstate-university"
+    "name": "Virtu Financial",
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "Research and Development Engineering Intern",
-  "category": "research",
-  "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
-  "season": "fall",
-  "year": 2026,
+  "role": "Internship - Software Engineer",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "State College",
-      "state": "PA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-03-03",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-21",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

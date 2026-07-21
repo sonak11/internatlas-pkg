@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**51** tracked · **44** open now
+**51** tracked · **46** open now
 
 ## Current openings
 
@@ -27,8 +27,10 @@
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7977145) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus ML Research Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=7977145) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - AI/ML - Core Ads Growth](https://www.metacareers.com/jobs/771948392580541) | London | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
+| [Moon](generated/companies/moon.md) | [Software Engineer Intern - Data & Machine Learning](https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094) | Glendale, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Netflix](generated/companies/netflix.md) | [AI/ML Scientist Intern - AIMS AI Foundations](https://explore.jobs.netflix.net/careers/job/790316547536) | Los Gatos, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Machine Learning Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) | South San Francisco | Onsite | 2025-05-30 | Rolling | 🟢 Open | ❔ |
+| [NVIDIA](generated/companies/nvidia.md) | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | Santa Clara, CA | Onsite | 2026-05-07 | Rolling | 🟢 Open | ❔ |
 | [Oligo Space](generated/companies/oligo-space.md) | [ML/AI/CS Intern](https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6/application?embed=true) | West Athens, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Output Biosciences](generated/companies/output-biosciences.md) | [Research Intern - Machine Learning](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application) | SF +1 | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [PathAI](generated/companies/pathai.md) | [Machine Learning Intern, AI Product and ML Core](https://www.pathai.com/career/job-post?gh_jid=8202342002) | Boston, MA +1 | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
@@ -53,8 +55,6 @@
 | [TMEIC](generated/companies/tmeic.md) | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | Roanoke, VA | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❌ |
 | [X Development](generated/companies/x-development.md) | [PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute](https://x.company/careers/8616839002?gh_jid=8616839002) | Mountain View, CA | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development: AI/ML](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | Mountain View, CA +1 | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
-| [Moon](generated/companies/moon.md) | [Software Engineer Intern - Data & Machine Learning](https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094) | Glendale, CA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
-| [NVIDIA](generated/companies/nvidia.md) | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | Santa Clara, CA | Onsite | 2026-05-07 | Rolling | 🔴 Closed | ❔ |
 | [Rippling](generated/companies/rippling.md) | [Machine Learning Software Engineer Intern](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) | SF | Onsite | 2026-06-05 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Machine Learning Researcher Intern/Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050) | Hartford, CT | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [SpreeAI](generated/companies/spreeai.md) | [Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) | SF | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
@@ -78,8 +78,10 @@
 - Human Computer Lab (1)
 - Intercontinental Exchange, Inc. (1)
 - Meta (1)
+- Moon (1)
 - Netflix (1)
 - Neuralink (1)
+- NVIDIA (1)
 - Oligo Space (1)
 - Output Biosciences (1)
 - PathAI (1)
@@ -94,8 +96,6 @@
 - TMEIC (1)
 - X Development (1)
 - General Motors (1)
-- Moon (1)
-- NVIDIA (1)
 - RTX (1)
 - SpreeAI (1)
 - Tencent (1)

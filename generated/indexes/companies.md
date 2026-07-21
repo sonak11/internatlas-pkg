@@ -21,6 +21,7 @@
 | [Akuna Capital](../companies/akuna-capital.md) | 8/8 | cloud, hardware, quant |
 | [Al Warren Oil Company](../companies/al-warren-oil-company.md) | 1/1 | software-engineering |
 | [AlixPartners](../companies/alixpartners.md) | 1/1 | data-science |
+| [Altasciences](../companies/altasciences.md) | 1/1 | product |
 | [Altera Corporation](../companies/altera-corporation.md) | 0/1 | ai |
 | [Altom Transport](../companies/altom-transport.md) | 3/3 | software-engineering |
 | [Amazon](../companies/amazon.md) | 7/7 | machine-learning, software-engineering |
@@ -39,7 +40,7 @@
 | [Argmax](../companies/argmax.md) | 1/1 | ai |
 | [Argonne National Laboratory](../companies/argonne-national-laboratory.md) | 1/1 | software-engineering |
 | [Arlington County VA](../companies/arlington-county-va.md) | 1/1 | software-engineering |
-| [Arrowstreet Capital](../companies/arrowstreet-capital.md) | 0/1 | quant |
+| [Arrowstreet Capital](../companies/arrowstreet-capital.md) | 1/2 | quant |
 | [Astranis](../companies/astranis.md) | 10/10 | design, embedded, hardware, software-engineering |
 | [Atomic Semi](../companies/atomic-semi.md) | 4/4 | cloud, embedded, software-engineering |
 | [Autodesk](../companies/autodesk.md) | 2/2 | software-engineering |
@@ -73,7 +74,7 @@
 | [Ciena](../companies/ciena.md) | 3/3 | embedded, hardware |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
-| [Cirrus Logic](../companies/cirrus-logic.md) | 1/2 | ai |
+| [Cirrus Logic](../companies/cirrus-logic.md) | 2/2 | ai |
 | [Citadel](../companies/citadel.md) | 5/5 | quant, software-engineering |
 | [Citadel Securities](../companies/citadel-securities.md) | 3/3 | quant, software-engineering |
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
@@ -81,11 +82,11 @@
 | [Cohere](../companies/cohere.md) | 3/3 | machine-learning, research, software-engineering |
 | [Colgate-Palmolive](../companies/colgate-palmolive.md) | 1/1 | software-engineering |
 | [Commercial Metals](../companies/commercial-metals.md) | 1/1 | ai |
-| [Composio](../companies/composio.md) | 0/1 | software-engineering |
+| [Composio](../companies/composio.md) | 1/1 | software-engineering |
 | [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 1/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
-| [Copart](../companies/copart.md) | 0/5 | software-engineering |
+| [Copart](../companies/copart.md) | 1/5 | software-engineering |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
 | [CuspAI](../companies/cuspai.md) | 0/1 | software-engineering |
@@ -103,7 +104,7 @@
 | [Definity Financial](../companies/definity-financial.md) | 4/4 | software-engineering |
 | [Delta Air Lines](../companies/delta-air-lines.md) | 1/1 | ai |
 | [Democratic Governors Association](../companies/democratic-governors-association.md) | 1/1 | software-engineering |
-| [Democratic National Committee](../companies/democratic-national-committee.md) | 0/1 | software-engineering |
+| [Democratic National Committee](../companies/democratic-national-committee.md) | 1/1 | software-engineering |
 | [Desjardins Group](../companies/desjardins-group.md) | 1/1 | software-engineering |
 | [Dexmate](../companies/dexmate.md) | 1/1 | software-engineering |
 | [DiDi Global](../companies/didi-global.md) | 1/1 | software-engineering |
@@ -179,8 +180,9 @@
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 1/1 | software-engineering |
 | [Jump Trading](../companies/jump-trading.md) | 38/38 | ai, data-engineering, design, hardware, machine-learning, quant, research |
 | [Junior AI](../companies/junior-ai.md) | 1/1 | software-engineering |
+| [KBR](../companies/kbr.md) | 1/1 | security |
 | [KRAFTON](../companies/krafton.md) | 1/1 | software-engineering |
-| [Kinaxis](../companies/kinaxis.md) | 0/2 | software-engineering |
+| [Kinaxis](../companies/kinaxis.md) | 2/2 | software-engineering |
 | [Kirin](../companies/kirin.md) | 2/2 | ai, quant |
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 3/3 | software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/2 | software-engineering |
@@ -202,10 +204,10 @@
 | [Mistral AI](../companies/mistral-ai.md) | 2/2 | research |
 | [Mobius Renewables](../companies/mobius-renewables.md) | 0/1 | software-engineering |
 | [Monogram](../companies/monogram.md) | 1/1 | software-engineering |
-| [Moon](../companies/moon.md) | 0/2 | machine-learning, software-engineering |
+| [Moon](../companies/moon.md) | 1/2 | machine-learning, software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
-| [NVIDIA](../companies/nvidia.md) | 4/9 | machine-learning, quant, research, security, software-engineering |
+| [NVIDIA](../companies/nvidia.md) | 7/9 | machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 2/2 | software-engineering |
@@ -231,8 +233,8 @@
 | [Palantir](../companies/palantir.md) | 7/7 | software-engineering |
 | [Paragon](../companies/paragon.md) | 1/1 | software-engineering |
 | [PathAI](../companies/pathai.md) | 1/1 | machine-learning |
-| [Pendulum Intelligence](../companies/pendulum-intelligence.md) | 0/1 | product |
-| [PennState University](../companies/pennstate-university.md) | 0/1 | research |
+| [Pendulum Intelligence](../companies/pendulum-intelligence.md) | 1/1 | product |
+| [PennState University](../companies/pennstate-university.md) | 1/1 | research |
 | [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 3/3 | machine-learning, research |
 | [Persistent Systems](../companies/persistent-systems.md) | 2/2 | embedded, hardware |
 | [Persona AI](../companies/persona-ai.md) | 1/1 | software-engineering |
@@ -255,7 +257,7 @@
 | [Revise Robotics](../companies/revise-robotics.md) | 1/1 | software-engineering |
 | [Revvity](../companies/revvity.md) | 0/2 | ai, product |
 | [Rippling](../companies/rippling.md) | 3/6 | machine-learning, software-engineering |
-| [Rise8](../companies/rise8.md) | 1/1 | product |
+| [Rise8](../companies/rise8.md) | 0/1 | product |
 | [Rivian](../companies/rivian.md) | 1/1 | machine-learning |
 | [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 14/14 | ai, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
@@ -264,7 +266,7 @@
 | [Rockwell Automation](../companies/rockwell-automation.md) | 0/2 | embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 0/1 | software-engineering |
 | [SOTI](../companies/soti.md) | 0/3 | data-science, product |
-| [Salesforce](../companies/salesforce.md) | 1/3 | product, software-engineering |
+| [Salesforce](../companies/salesforce.md) | 2/3 | product, software-engineering |
 | [Samsung Research America](../companies/samsung-research-america.md) | 2/3 | ai, machine-learning, software-engineering |
 | [Sandhills Global](../companies/sandhills-global.md) | 1/1 | software-engineering |
 | [Saronic](../companies/saronic.md) | 2/2 | ai, software-engineering |
@@ -283,7 +285,7 @@
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |
 | [SpaceX](../companies/spacex.md) | 7/7 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 1/1 | software-engineering |
-| [SpreeAI](../companies/spreeai.md) | 0/3 | machine-learning, software-engineering |
+| [SpreeAI](../companies/spreeai.md) | 2/3 | machine-learning, software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
 | [State of North Carolina](../companies/state-of-north-carolina.md) | 0/1 | software-engineering |
 | [Stoke Space](../companies/stoke-space.md) | 2/2 | software-engineering |
@@ -321,7 +323,7 @@
 | [Verne Robotics](../companies/verne-robotics.md) | 1/1 | software-engineering |
 | [VetsEZ](../companies/vetsez.md) | 1/1 | software-engineering |
 | [Viavi Solutions](../companies/viavi-solutions.md) | 1/1 | software-engineering |
-| [Virtu Financial](../companies/virtu-financial.md) | 4/4 | quant |
+| [Virtu Financial](../companies/virtu-financial.md) | 5/5 | quant |
 | [Vital Lyfe](../companies/vital-lyfe.md) | 1/1 | software-engineering |
 | [Voloridge](../companies/voloridge.md) | 2/2 | quant |
 | [Voloridge Investment Management](../companies/voloridge-investment-management.md) | 1/1 | quant |

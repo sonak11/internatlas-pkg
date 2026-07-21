@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**94** tracked · **92** open now
+**96** tracked · **94** open now
 
 ## Current openings
 
@@ -16,6 +16,7 @@
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Portfolio Implementation – Trading and Portfolio Finance Analyst Intern](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Greenwich, CT | Onsite | 2026-05-15 | Rolling | 🟢 Open | ❔ |
 | [Aquatic Capital Management](generated/companies/aquatic-capital-management.md) | [Quantitative Researcher – Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | London +1 | Onsite | 2026-04-01 | Rolling | 🟢 Open | ❔ |
+| [Arrowstreet Capital](generated/companies/arrowstreet-capital.md) | [Quantitative Developer Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | Boston, MA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Barclays](generated/companies/barclays.md) | [Markets Quantitative Analyst Summer Internship 2027 New York](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | New York, NY | Onsite | 2025-12-02 | Rolling | 🟢 Open | ❔ |
 | [Chevron Corporation](generated/companies/chevron-corporation.md) | [Supply & Trading TAMU TRIP Program Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072487) | Houston, TX | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Chevron Corporation](generated/companies/chevron-corporation.md) | [Supply & Trading TRIP Program Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072485) | Houston, TX | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
@@ -87,10 +88,11 @@
 | [Tower Research Capital](generated/companies/tower-research-capital.md) | [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8044334) | Chicago, IL +2 | Onsite | 2026-07-05 | Rolling | 🟢 Open | ❔ |
 | [Tower Research Capital](generated/companies/tower-research-capital.md) | [Quantitative Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8024128) | Chicago, IL +1 | Onsite | 2026-07-05 | Rolling | 🟢 Open | ❔ |
 | [TransMarket Group](generated/companies/transmarket-group.md) | [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | Chicago, IL | Onsite | 2026-06-02 | Rolling | 🟢 Open | ❔ |
-| [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quant Research (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | New York +1 | Onsite | 2025-09-12 | Rolling | 🟢 Open | ❔ |
+| [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quant Research (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | New York | Onsite | 2025-09-12 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quantitative Strategist and Research Intern](https://job-boards.greenhouse.io/virtu/jobs/8631180002) | Dublin | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) | Dublin | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) | Dublin | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
+| [Virtu Financial](generated/companies/virtu-financial.md) | [Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Austin, TX | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Voloridge](generated/companies/voloridge.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | Jupiter, FL | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Voloridge](generated/companies/voloridge.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Jupiter, FL | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Voloridge Investment Management](generated/companies/voloridge-investment-management.md) | [Quantitative Developer Intern](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803) | Jupiter, FL | Onsite | 2026-05-23 | Rolling | 🟢 Open | ❔ |
@@ -110,8 +112,9 @@
 - IMC Trading (8)
 - Akuna Capital (6)
 - Walleye Capital (6)
+- Virtu Financial (5)
 - Optiver (4)
-- Virtu Financial (4)
+- Arrowstreet Capital (2)
 - Chevron Corporation (2)
 - Citadel (2)
 - Five Rings Capital (2)
@@ -136,7 +139,6 @@
 - Susquehanna Investment Group (1)
 - TransMarket Group (1)
 - Voloridge Investment Management (1)
-- Arrowstreet Capital (1)
 - Blackstone (1)
 
 ## Tips
