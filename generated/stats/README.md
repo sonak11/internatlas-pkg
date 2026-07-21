@@ -33,15 +33,15 @@ _Generated 2026-07-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 379 | `████████████` |
-| quant | 92 | `███` |
-| ai | 79 | `██` |
-| machine-learning | 50 | `██` |
+| software-engineering | 384 | `████████████` |
+| quant | 93 | `███` |
+| ai | 81 | `███` |
+| machine-learning | 52 | `██` |
+| research | 43 | `█` |
 | hardware | 42 | `█` |
-| research | 39 | `█` |
 | embedded | 35 | `█` |
 | design | 21 | `█` |
-| product | 16 | `█` |
+| product | 17 | `█` |
 | cloud | 14 | `█` |
 | data-science | 12 | `█` |
 | data-engineering | 8 | `█` |
@@ -72,6 +72,7 @@ _Generated 2026-07-21_
 
 ## Recently closed
 
+- Accenture — Software Engineer Intern
 - Accenture — Technology Apprentice Intern
 - Altera Corporation — AI Software Development Engineer Intern
 - Amentum — Spaceflight Hardware Intern
@@ -124,3 +125,4 @@ _Generated 2026-07-21_
 - Sentara Health — Enterprise Data & AI Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Torch Technologies — Software Engineer Intern
+- Varda Space — Mission Software – Intern - Python

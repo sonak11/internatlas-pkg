@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "varda-space-mission-software-intern-python-2026",
+  "id": "marvell-analog-engineer-intern-2026",
   "company": {
-    "name": "Varda Space",
-    "slug": "varda-space"
+    "name": "Marvell",
+    "slug": "marvell"
   },
-  "role": "Mission Software – Intern - Python",
+  "role": "Analog Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "El Segundo",
-      "state": "CA",
-      "country": "USA"
+      "city": "Vancouver",
+      "country": "BC"
     }
   ],
   "compensation": {
@@ -25,7 +24,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-03-24",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-04",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

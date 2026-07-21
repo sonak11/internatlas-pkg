@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "varda-space-mission-software-intern-python-2026",
+  "id": "brookfield-ai-value-creation-office-intern-2026",
   "company": {
-    "name": "Varda Space",
-    "slug": "varda-space"
+    "name": "Brookfield",
+    "slug": "brookfield"
   },
-  "role": "Mission Software – Intern - Python",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+  "role": "AI Value Creation Office Intern",
+  "category": "ai",
+  "apply_url": "https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern--AI-Value-Creation-Office_R2048790",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "El Segundo",
-      "state": "CA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-03-24",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-04",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

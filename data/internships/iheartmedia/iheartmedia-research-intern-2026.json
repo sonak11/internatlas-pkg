@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "varda-space-mission-software-intern-python-2026",
+  "id": "iheartmedia-research-intern-2026",
   "company": {
-    "name": "Varda Space",
-    "slug": "varda-space"
+    "name": "iHeartMedia",
+    "slug": "iheartmedia"
   },
-  "role": "Mission Software – Intern - Python",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+  "role": "Research Intern",
+  "category": "research",
+  "apply_url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-FL/Research-Intern_Req37325",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "El Segundo",
-      "state": "CA",
+      "city": "Florida",
       "country": "USA"
     }
   ],
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-03-24",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-04",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

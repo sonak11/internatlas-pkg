@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "varda-space-mission-software-intern-python-2026",
+  "id": "pennsylvania-state-university-ai-ml-research-and-development-intern-2026",
   "company": {
-    "name": "Varda Space",
-    "slug": "varda-space"
+    "name": "Pennsylvania State University",
+    "slug": "pennsylvania-state-university"
   },
-  "role": "Mission Software – Intern - Python",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+  "role": "AI/ML Research and Development Intern",
+  "category": "machine-learning",
+  "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000077083-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "El Segundo",
-      "state": "CA",
+      "city": "State College",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Reston",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -25,7 +30,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +47,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-03-24",
-    "discovered": "2026-07-17",
+    "posted": "2026-04-02",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

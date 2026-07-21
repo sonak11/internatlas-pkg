@@ -1,21 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "varda-space-mission-software-intern-python-2026",
+  "id": "citadel-securities-rates-trading-intern-2026",
   "company": {
-    "name": "Varda Space",
-    "slug": "varda-space"
+    "name": "Citadel Securities",
+    "slug": "citadel-securities"
   },
-  "role": "Mission Software – Intern - Python",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+  "role": "Rates Trading Intern",
+  "category": "quant",
+  "apply_url": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "El Segundo",
-      "state": "CA",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "city": "Paris",
+      "country": "France"
     }
   ],
   "compensation": {
@@ -25,7 +28,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +45,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-03-24",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-13",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
