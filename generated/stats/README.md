@@ -37,7 +37,7 @@ _Generated 2026-07-22_
 | quant | 102 | `███` |
 | ai | 85 | `██` |
 | machine-learning | 56 | `██` |
-| research | 44 | `█` |
+| research | 45 | `█` |
 | hardware | 44 | `█` |
 | embedded | 37 | `█` |
 | design | 22 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-07-22_
 
 ## Newest listings
 
+- 2026-07-22 — **Samsung**: [Research Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1)
 - 2026-07-21 — **AQR Capital Management**: [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110)
 - 2026-07-21 — **Architect Labs**: [Member of Technical Staff Research Intern](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true)
 - 2026-07-21 — **Axon**: [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003)
@@ -68,7 +69,6 @@ _Generated 2026-07-22_
 - 2026-07-21 — **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011)
 - 2026-07-21 — **Democratic National Committee**: [DNC Technology Intern](https://ats.rippling.com/democratic-national-committee/jobs/3f556194-5789-4d7c-bc00-35b9aea75e1d)
 - 2026-07-21 — **Dexmate**: [Frontend Engineer Intern](https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119/application?embed=true)
-- 2026-07-21 — **Duku AI**: [Tech Intern - Visiting](https://ats.rippling.com/duku-ai/jobs/d6140320-add8-4c23-80b0-5253e87d7c84)
 
 ## Recently closed
 
@@ -120,17 +120,13 @@ _Generated 2026-07-22_
 - Light & Wonder — Mathematics Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Marvell — Design Verification Engineer Intern
-- McKesson — AI & Strategic Analytics Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - Netflix — AI/ML Scientist Intern - AIMS AI Foundations
 - Nokia — Incubation Developer Coop/Intern
 - North Cloud — AI Automation Intern
-- NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
-- NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
-- NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NXP Semiconductors — Digital Verification Engineer Intern
 - Odin Dynamics, Inc — Engineering Intern
 - Old Mission — Software Engineer Intern
@@ -140,11 +136,11 @@ _Generated 2026-07-22_
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
-- RTX — Machine Learning Researcher Intern/Co-op
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Seaspan — Energy Management Intern
 - Signify — Product Management Intern
+- Solid Power — Product Development Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern
 - Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern - PhD

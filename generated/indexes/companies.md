@@ -202,7 +202,7 @@
 | [Marmon Holdings](../companies/marmon-holdings.md) | 2/2 | data-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 2/2 | software-engineering |
 | [Marvell](../companies/marvell.md) | 2/3 | design, software-engineering |
-| [McKesson](../companies/mckesson.md) | 1/3 | ai, software-engineering |
+| [McKesson](../companies/mckesson.md) | 2/3 | ai, software-engineering |
 | [Medpace](../companies/medpace.md) | 1/1 | ai |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 3/3 | ai, data-engineering, software-engineering |
 | [Menasha Corporation](../companies/menasha-corporation.md) | 1/1 | software-engineering |
@@ -218,7 +218,7 @@
 | [Moss & Associates](../companies/moss-associates.md) | 1/1 | software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
-| [NVIDIA](../companies/nvidia.md) | 5/9 | machine-learning, quant, research, security, software-engineering |
+| [NVIDIA](../companies/nvidia.md) | 8/9 | machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 2/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 2/2 | software-engineering |
@@ -263,7 +263,7 @@
 | [Quadrillion](../companies/quadrillion.md) | 1/2 | research, software-engineering |
 | [RFCUNY](../companies/rfcuny.md) | 1/2 | software-engineering |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 1/1 | product |
-| [RTX](../companies/rtx.md) | 0/1 | machine-learning |
+| [RTX](../companies/rtx.md) | 1/1 | machine-learning |
 | [Rainmaker](../companies/rainmaker.md) | 1/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 1/1 | software-engineering |
 | [Ramp](../companies/ramp.md) | 1/1 | software-engineering |
@@ -280,6 +280,7 @@
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 0/1 | software-engineering |
 | [SOTI](../companies/soti.md) | 3/3 | data-science, product |
 | [Salesforce](../companies/salesforce.md) | 3/3 | product, software-engineering |
+| [Samsung](../companies/samsung.md) | 1/1 | research |
 | [Samsung Research America](../companies/samsung-research-america.md) | 1/3 | ai, machine-learning, software-engineering |
 | [Sandhills Global](../companies/sandhills-global.md) | 1/1 | software-engineering |
 | [Saronic](../companies/saronic.md) | 2/2 | ai, software-engineering |
@@ -295,7 +296,7 @@
 | [Sixtyfour (X25)](../companies/sixtyfour-x25.md) | 1/1 | software-engineering |
 | [Skydio](../companies/skydio.md) | 2/2 | software-engineering |
 | [Snowflake](../companies/snowflake.md) | 3/3 | cloud, software-engineering |
-| [Solid Power](../companies/solid-power.md) | 1/1 | software-engineering |
+| [Solid Power](../companies/solid-power.md) | 0/1 | software-engineering |
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |
 | [SpaceX](../companies/spacex.md) | 7/7 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 1/1 | software-engineering |

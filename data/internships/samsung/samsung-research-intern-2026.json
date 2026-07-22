@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mckesson-ai-strategic-analytics-intern-2026",
+  "id": "samsung-research-intern-2026",
   "company": {
-    "name": "McKesson",
-    "slug": "mckesson"
+    "name": "Samsung",
+    "slug": "samsung"
   },
-  "role": "AI & Strategic Analytics Intern",
-  "category": "ai",
-  "apply_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114",
+  "role": "Research Intern",
+  "category": "research",
+  "apply_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mississauga",
-      "country": "ON"
+      "city": "Cambridge",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,7 +25,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-14",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-22",
+    "discovered": "2026-07-22",
     "last_verified": "2026-07-22"
   },
   "status": "open",
