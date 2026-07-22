@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "xsolla-ai-first-engineer-intern-2026-30d479",
+  "id": "imc-trading-software-engineer-intern-summer-2027-2027",
   "company": {
-    "name": "Xsolla",
-    "slug": "xsolla"
+    "name": "IMC Trading",
+    "slug": "imc-trading",
+    "career_page": "https://www.imc.com/us/careers"
   },
-  "role": "AI-First Engineer Intern",
-  "category": "ai",
-  "apply_url": "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply",
-  "season": "fall",
-  "year": 2026,
+  "role": "Software Engineer Intern - Summer 2027",
+  "category": "quant",
+  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "state": "LA",
+      "city": "Chicago",
       "country": "USA"
     }
   ],
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
-    "discovered": "2026-07-20",
+    "posted": "2026-07-01",
+    "discovered": "2026-07-22",
     "last_verified": "2026-07-22"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

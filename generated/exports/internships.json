@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-22",
-  "count": 868,
+  "count": 869,
   "internships": [
     {
       "schema_version": "1.0",
@@ -51,7 +51,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -3037,7 +3037,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -3529,7 +3529,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8280,7 +8280,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10281,7 +10281,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10542,7 +10542,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10652,7 +10652,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11330,7 +11330,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11803,7 +11803,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14707,7 +14707,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14811,7 +14811,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16226,7 +16226,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16606,7 +16606,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17183,7 +17183,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17290,7 +17290,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18351,7 +18351,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -18507,7 +18507,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -18738,64 +18738,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "imc-trading-quantitative-research-intern-2027-450eb7",
-      "company": {
-        "name": "IMC Trading",
-        "slug": "imc-trading"
-      },
-      "role": "Quantitative Research Intern",
-      "category": "quant",
-      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-01",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "imc-trading-quantitative-research-intern-2027",
       "company": {
         "name": "IMC Trading",
@@ -18850,6 +18792,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "imc-trading-quantitative-research-intern-phd-summer-2027-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
+      },
+      "role": "Quantitative Research Intern (PhD) - Summer 2027",
+      "category": "quant",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-01",
+        "discovered": "2026-07-22",
+        "last_verified": "2026-07-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -18910,23 +18904,19 @@
     },
     {
       "schema_version": "1.0",
-      "id": "imc-trading-software-engineer-intern-2027",
+      "id": "imc-trading-software-engineer-intern-summer-2027-2027",
       "company": {
         "name": "IMC Trading",
-        "slug": "imc-trading"
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
       },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "quant",
       "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        },
         {
           "city": "Chicago",
           "country": "USA"
@@ -18955,13 +18945,13 @@
       },
       "dates": {
         "posted": "2026-07-01",
-        "discovered": "2026-07-17",
+        "discovered": "2026-07-22",
         "last_verified": "2026-07-22"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:ats"
       ]
     },
     {
@@ -23131,7 +23121,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23184,7 +23174,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24799,7 +24789,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24955,7 +24945,58 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-22"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mosaic-capital-project-engineering-co-op-intern-2027",
+      "company": {
+        "name": "Mosaic",
+        "slug": "mosaic"
+      },
+      "role": "Capital Project Engineering Co-op/Intern",
+      "category": "software-engineering",
+      "apply_url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/CA---Belle-Plaine-SK/Capital-Project-Engineering-Co-op-Intern---Winter-2027_64418",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Regina",
+          "country": "SK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-07-22",
+        "last_verified": "2026-07-22"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25336,7 +25377,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25925,7 +25966,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27286,7 +27327,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27715,7 +27756,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27825,7 +27866,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27838,7 +27879,7 @@
         "name": "NVIDIA",
         "slug": "nvidia"
       },
-      "role": "Performance Engineer Intern, Systems Software",
+      "role": "Performance Engineer Intern - Systems Software",
       "category": "software-engineering",
       "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
       "season": "fall",
@@ -27873,14 +27914,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-09",
+        "posted": "2026-07-06",
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -28045,7 +28086,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28416,7 +28457,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28572,7 +28613,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31951,7 +31992,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32052,7 +32093,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33246,6 +33287,59 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-22"
       },
+      "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "salesforce-associate-product-manager-intern-associate-product-manager-2027-26d648",
+      "company": {
+        "name": "Salesforce",
+        "slug": "salesforce"
+      },
+      "role": "Associate Product Manager Intern - Associate Product Manager",
+      "category": "product",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-07-22",
+        "last_verified": "2026-07-22"
+      },
       "status": "open",
       "tags": [
         "auto-ingested",
@@ -33261,7 +33355,7 @@
       },
       "role": "Associate Product Manager Intern - Associate Product Manager",
       "category": "product",
-      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -34478,7 +34572,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35063,7 +35157,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36926,7 +37020,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44283,7 +44377,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46598,57 +46692,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "xsolla-ai-first-engineer-intern-2026-30d479",
-      "company": {
-        "name": "Xsolla",
-        "slug": "xsolla"
-      },
-      "role": "AI-First Engineer Intern",
-      "category": "ai",
-      "apply_url": "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "state": "LA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-20",
-        "discovered": "2026-07-20",
-        "last_verified": "2026-07-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "xsolla-ai-first-engineer-intern-2026-77a1d6",
       "company": {
         "name": "Xsolla",
@@ -46693,7 +46736,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46708,7 +46751,7 @@
       },
       "role": "AI-First Engineer Intern",
       "category": "ai",
-      "apply_url": "https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply",
+      "apply_url": "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -46740,7 +46783,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-10",
+        "posted": "2026-07-20",
         "discovered": "2026-07-17",
         "last_verified": "2026-07-22"
       },

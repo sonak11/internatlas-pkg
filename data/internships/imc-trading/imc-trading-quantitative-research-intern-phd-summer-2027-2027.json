@@ -1,22 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "imc-trading-software-engineer-intern-2027",
+  "id": "imc-trading-quantitative-research-intern-phd-summer-2027-2027",
   "company": {
     "name": "IMC Trading",
-    "slug": "imc-trading"
+    "slug": "imc-trading",
+    "career_page": "https://www.imc.com/us/careers"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+  "role": "Quantitative Research Intern (PhD) - Summer 2027",
+  "category": "quant",
+  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
-    },
     {
       "city": "Chicago",
       "country": "USA"
@@ -45,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-07-01",
-    "discovered": "2026-07-17",
+    "discovered": "2026-07-22",
     "last_verified": "2026-07-22"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

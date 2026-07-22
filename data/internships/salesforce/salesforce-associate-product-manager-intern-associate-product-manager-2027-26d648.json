@@ -1,24 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "imc-trading-quantitative-research-intern-2027-450eb7",
+  "id": "salesforce-associate-product-manager-intern-associate-product-manager-2027-26d648",
   "company": {
-    "name": "IMC Trading",
-    "slug": "imc-trading"
+    "name": "Salesforce",
+    "slug": "salesforce"
   },
-  "role": "Quantitative Research Intern",
-  "category": "quant",
-  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101",
+  "role": "Associate Product Manager Intern - Associate Product Manager",
+  "category": "product",
+  "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
-    },
-    {
-      "city": "Chicago",
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -30,7 +25,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -46,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-01",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-13",
+    "discovered": "2026-07-22",
     "last_verified": "2026-07-22"
   },
   "status": "open",

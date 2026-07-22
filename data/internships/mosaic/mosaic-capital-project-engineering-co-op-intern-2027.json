@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hermeus-subsystem-test-engineer-intern-2026",
+  "id": "mosaic-capital-project-engineering-co-op-intern-2027",
   "company": {
-    "name": "Hermeus",
-    "slug": "hermeus"
+    "name": "Mosaic",
+    "slug": "mosaic"
   },
-  "role": "Subsystem Test Engineer Intern",
+  "role": "Capital Project Engineering Co-op/Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e/apply",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/CA---Belle-Plaine-SK/Capital-Project-Engineering-Co-op-Intern---Winter-2027_64418",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
-      "country": "USA"
+      "city": "Regina",
+      "country": "SK"
     }
   ],
   "compensation": {
@@ -25,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-19",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-21",
+    "discovered": "2026-07-22",
     "last_verified": "2026-07-22"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
