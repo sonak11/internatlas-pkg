@@ -76,7 +76,7 @@
 | [Center for AI Safety](../companies/center-for-ai-safety.md) | 0/1 | research |
 | [Centerstone](../companies/centerstone.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 4/6 | quant, software-engineering |
-| [Chicago Trading Company](../companies/chicago-trading-company.md) | 3/3 | quant, software-engineering |
+| [Chicago Trading Company](../companies/chicago-trading-company.md) | 1/2 | quant, software-engineering |
 | [Ciena](../companies/ciena.md) | 7/7 | embedded, hardware, software-engineering |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
@@ -138,7 +138,8 @@
 | [Figure](../companies/figure.md) | 3/3 | embedded, hardware, software-engineering |
 | [Firetiger](../companies/firetiger.md) | 1/1 | software-engineering |
 | [Fiserv](../companies/fiserv.md) | 2/2 | software-engineering |
-| [Five Rings Capital](../companies/five-rings-capital.md) | 3/3 | quant, software-engineering |
+| [Five Rings](../companies/five-rings.md) | 2/2 | quant |
+| [Five Rings Capital](../companies/five-rings-capital.md) | 1/1 | software-engineering |
 | [Flow Traders](../companies/flow-traders.md) | 1/1 | quant |
 | [Fluency](../companies/fluency.md) | 1/1 | software-engineering |
 | [Formlabs](../companies/formlabs.md) | 3/7 | ai, hardware, software-engineering |
@@ -193,7 +194,7 @@
 | [KRAFTON](../companies/krafton.md) | 1/1 | software-engineering |
 | [Kepler Communications](../companies/kepler-communications.md) | 1/1 | hardware |
 | [Keysight Technologies](../companies/keysight-technologies.md) | 1/1 | machine-learning |
-| [Kinaxis](../companies/kinaxis.md) | 2/2 | software-engineering |
+| [Kinaxis](../companies/kinaxis.md) | 1/2 | software-engineering |
 | [Kirin](../companies/kirin.md) | 2/2 | ai, quant |
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 3/3 | software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/2 | software-engineering |
@@ -234,7 +235,7 @@
 | [NeoSigma](../companies/neosigma.md) | 1/1 | software-engineering |
 | [Netflix](../companies/netflix.md) | 1/2 | machine-learning, software-engineering |
 | [Neuralink](../companies/neuralink.md) | 19/19 | cloud, design, embedded, hardware, machine-learning, software-engineering |
-| [NewsBreak](../companies/newsbreak.md) | 1/1 | software-engineering |
+| [NewsBreak](../companies/newsbreak.md) | 0/1 | software-engineering |
 | [Nokia](../companies/nokia.md) | 2/4 | data-science, embedded, software-engineering |
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
 | [Notion](../companies/notion.md) | 6/6 | ai, software-engineering |
@@ -273,6 +274,7 @@
 | [Rainmaker](../companies/rainmaker.md) | 1/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 1/1 | software-engineering |
 | [Ramp](../companies/ramp.md) | 1/1 | software-engineering |
+| [Red Bull](../companies/red-bull.md) | 1/1 | data-science |
 | [Revise Robotics](../companies/revise-robotics.md) | 1/1 | software-engineering |
 | [Revvity](../companies/revvity.md) | 1/2 | ai, product |
 | [Rippling](../companies/rippling.md) | 6/6 | machine-learning, software-engineering |
@@ -352,6 +354,7 @@
 | [Voloridge Investment Management](../companies/voloridge-investment-management.md) | 1/1 | quant |
 | [WSP](../companies/wsp.md) | 1/1 | software-engineering |
 | [Walleye Capital](../companies/walleye-capital.md) | 8/8 | data-science, quant, software-engineering |
+| [Warner Bros.](../companies/warner-bros.md) | 1/1 | software-engineering |
 | [Wells Fargo](../companies/wells-fargo.md) | 1/1 | software-engineering |
 | [Western Digital](../companies/western-digital.md) | 1/1 | software-engineering |
 | [WindBorne Systems](../companies/windborne-systems.md) | 1/1 | embedded |

@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "five-rings-capital-quantitative-trader-intern-quantitative-trader-2027",
+  "id": "red-bull-data-science-intern-data-science-2026",
   "company": {
-    "name": "Five Rings Capital",
-    "slug": "five-rings-capital"
+    "name": "Red Bull",
+    "slug": "red-bull"
   },
-  "role": "Quantitative Trader Intern - Quantitative Trader",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
-  "season": "summer",
-  "year": 2027,
+  "role": "Data Science Intern - Data Science",
+  "category": "data-science",
+  "apply_url": "https://jobs.smartrecruiters.com/RedBull/744000139168339",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
+      "city": "Morristown",
+      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -43,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-14",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-23",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
   "status": "open",

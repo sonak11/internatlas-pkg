@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "chicago-trading-company-quant-trading-intern-2027-8db8a1",
+  "id": "five-rings-summer-intern-2027-quantitative-researcher-phd-2027",
   "company": {
-    "name": "Chicago Trading Company",
-    "slug": "chicago-trading-company"
+    "name": "Five Rings",
+    "slug": "five-rings",
+    "career_page": "https://fiverings.com/careers"
   },
-  "role": "Quant Trading Intern",
+  "role": "Summer Intern 2027 - Quantitative Researcher (PhD)",
   "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
+  "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "New York",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-22",
+    "posted": "2026-07-14",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

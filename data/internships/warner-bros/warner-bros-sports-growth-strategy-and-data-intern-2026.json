@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "five-rings-capital-quantitative-researcher-intern-2027",
+  "id": "warner-bros-sports-growth-strategy-and-data-intern-2026",
   "company": {
-    "name": "Five Rings Capital",
-    "slug": "five-rings-capital"
+    "name": "Warner Bros.",
+    "slug": "warner-bros"
   },
-  "role": "Quantitative Researcher Intern",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
-  "season": "summer",
-  "year": 2027,
+  "role": "Sports Growth Strategy and Data Intern",
+  "category": "software-engineering",
+  "apply_url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -28,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-14",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-23",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
   "status": "open",

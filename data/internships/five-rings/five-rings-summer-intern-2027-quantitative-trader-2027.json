@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "newsbreak-growth-engineer-intern-growth-engineering-2026",
+  "id": "five-rings-summer-intern-2027-quantitative-trader-2027",
   "company": {
-    "name": "NewsBreak",
-    "slug": "newsbreak"
+    "name": "Five Rings",
+    "slug": "five-rings",
+    "career_page": "https://fiverings.com/careers"
   },
-  "role": "Growth Engineer Intern - Growth Engineering",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
-  "season": "fall",
-  "year": 2026,
+  "role": "Summer Intern 2027 - Quantitative Trader",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "New York",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -44,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-07-14",
-    "discovered": "2026-07-17",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

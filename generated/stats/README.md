@@ -33,8 +33,8 @@ _Generated 2026-07-23_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 418 | `████████████` |
-| quant | 103 | `███` |
+| software-engineering | 419 | `████████████` |
+| quant | 102 | `███` |
 | ai | 88 | `██` |
 | machine-learning | 56 | `██` |
 | research | 47 | `█` |
@@ -43,12 +43,14 @@ _Generated 2026-07-23_
 | design | 22 | `█` |
 | product | 21 | `█` |
 | cloud | 17 | `█` |
-| data-science | 13 | `█` |
+| data-science | 14 | `█` |
 | data-engineering | 10 | `█` |
 | security | 4 | `█` |
 
 ## Newest listings
 
+- 2026-07-23 — **Red Bull**: [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339)
+- 2026-07-23 — **Warner Bros.**: [Sports Growth Strategy and Data Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173)
 - 2026-07-22 — **Adtheorant**: [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false)
 - 2026-07-22 — **Arcadis**: [GIS Intern](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762)
 - 2026-07-22 — **Carnegie Mellon University**: [Research Intern - School of Computer Science - Language Technologies Institute](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---School-of-Computer-Science---LTI_2024870)
@@ -67,8 +69,6 @@ _Generated 2026-07-23_
 - 2026-07-21 — **Axon**: [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003)
 - 2026-07-21 — **Bild AI**: [AI/Software Engineer Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true)
 - 2026-07-21 — **Bloxd**: [Software Engineer Intern](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true)
-- 2026-07-21 — **Castleton Commodities International**: [Commodities Trading Analyst Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1)
-- 2026-07-21 — **Castleton Commodities International**: [Commodities Trading Analyst Internship](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2027-Internship-_R1333-1)
 
 ## Recently closed
 
@@ -88,6 +88,7 @@ _Generated 2026-07-23_
 - Center for AI Safety — Research Engineer Intern
 - Chevron Corporation — Earth Science Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
+- Chicago Trading Company — Software Engineering Intern
 - City of Aurora — Water GIS Intern
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Composio — Full-stack Intern
@@ -126,6 +127,7 @@ _Generated 2026-07-23_
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
 - Jump Trading — Campus Quantitative Researcher Intern
+- Kinaxis — Software Development Co-op/Intern - C++
 - Light & Wonder — Mathematics Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Marvell — Design Verification Engineer Intern
@@ -133,6 +135,7 @@ _Generated 2026-07-23_
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - Netflix — AI/ML Scientist Intern - AIMS AI Foundations
+- NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern
 - Nokia — Incubation Developer Coop/Intern
 - North Cloud — AI Automation Intern
