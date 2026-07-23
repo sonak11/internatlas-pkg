@@ -8,7 +8,7 @@
 | [ABB](../companies/abb.md) | 1/1 | software-engineering |
 | [ABC News](../companies/abc-news.md) | 1/1 | product |
 | [ACLU Kentucky](../companies/aclu-kentucky.md) | 0/1 | software-engineering |
-| [AMAROK Security](../companies/amarok-security.md) | 1/1 | research |
+| [AMAROK Security](../companies/amarok-security.md) | 0/1 | research |
 | [AQR Capital Management](../companies/aqr-capital-management.md) | 1/2 | quant |
 | [ASM International](../companies/asm-international.md) | 1/1 | software-engineering |
 | [ASML](../companies/asml.md) | 1/1 | software-engineering |
@@ -168,7 +168,7 @@
 | [Heron Power](../companies/heron-power.md) | 1/1 | design |
 | [HireVue](../companies/hirevue.md) | 1/1 | data-science |
 | [Hitachi](../companies/hitachi.md) | 2/2 | software-engineering |
-| [Hitachi Energy](../companies/hitachi-energy.md) | 1/2 | cloud, software-engineering |
+| [Hitachi Energy](../companies/hitachi-energy.md) | 0/2 | cloud, software-engineering |
 | [Homebase](../companies/homebase.md) | 1/1 | ai |
 | [Hone Health](../companies/hone-health.md) | 1/1 | data-engineering |
 | [Horizon Industries](../companies/horizon-industries.md) | 1/1 | software-engineering |
@@ -294,7 +294,7 @@
 | [Sandhills Global](../companies/sandhills-global.md) | 1/1 | software-engineering |
 | [Saronic](../companies/saronic.md) | 2/2 | ai, software-engineering |
 | [Scale AI](../companies/scale-ai.md) | 3/3 | ai, software-engineering |
-| [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 2/2 | software-engineering |
+| [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 1/2 | software-engineering |
 | [Seaspan](../companies/seaspan.md) | 1/2 | software-engineering |
 | [Sentara Health](../companies/sentara-health.md) | 0/1 | ai |
 | [Seven Research](../companies/seven-research.md) | 4/4 | machine-learning, quant, software-engineering |
@@ -307,7 +307,7 @@
 | [Snowflake](../companies/snowflake.md) | 3/3 | cloud, software-engineering |
 | [Solid Power](../companies/solid-power.md) | 0/1 | software-engineering |
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |
-| [SpaceX](../companies/spacex.md) | 7/7 | hardware, software-engineering |
+| [SpaceX](../companies/spacex.md) | 8/8 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 1/1 | software-engineering |
 | [SpreeAI](../companies/spreeai.md) | 3/3 | machine-learning, software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |

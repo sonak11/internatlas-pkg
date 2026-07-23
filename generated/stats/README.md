@@ -23,11 +23,11 @@ _Generated 2026-07-23_
 | NVIDIA | 9 |
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
+| SpaceX | 8 |
 | Tencent | 8 |
 | Walleye Capital | 8 |
 | Amazon | 7 |
 | Ciena | 7 |
-| Copart | 7 |
 
 ## Listings by category
 
@@ -38,7 +38,7 @@ _Generated 2026-07-23_
 | ai | 88 | `██` |
 | machine-learning | 57 | `██` |
 | research | 49 | `█` |
-| hardware | 45 | `█` |
+| hardware | 46 | `█` |
 | embedded | 38 | `█` |
 | design | 22 | `█` |
 | product | 21 | `█` |
@@ -56,6 +56,7 @@ _Generated 2026-07-23_
 - 2026-07-23 — **G-Research**: [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
 - 2026-07-23 — **Optiver**: [Institutional Trader Intern](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002)
 - 2026-07-23 — **Red Bull**: [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339)
+- 2026-07-23 — **SpaceX**: [Recruiting Coordinator, Intern Program- Temporary](https://boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002)
 - 2026-07-23 — **T. Rowe Price**: [Global Product Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693)
 - 2026-07-23 — **T. Rowe Price**: [Global Trading Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718)
 - 2026-07-23 — **T. Rowe Price**: [Quantitative Equity Investing Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699)
@@ -68,7 +69,6 @@ _Generated 2026-07-23_
 - 2026-07-22 — **Impulse Space**: [Data Analytics Intern](https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq)
 - 2026-07-22 — **Kepler Communications**: [FPGA Digital Design Engineer Intern](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply)
 - 2026-07-22 — **Moog**: [Software Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1)
-- 2026-07-22 — **OpusClip**: [AI Research Intern](https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true)
 
 ## Recently closed
 
@@ -77,6 +77,7 @@ _Generated 2026-07-23_
 - Accenture — Technology Apprentice Intern
 - ACLU Kentucky — Undergraduate Intern - Technology and Analytics Department-Educate Pod
 - Altera Corporation — AI Software Development Engineer Intern
+- AMAROK Security — Research and Development Intern
 - American Bureau of Shipping — AI Software Engineering Intern
 - Amwins — Analytics & AI Intern
 - Aptiv — Engineer Intern
@@ -140,6 +141,7 @@ _Generated 2026-07-23_
 - Hermeus — Modeling & Simulation Software Engineer Intern
 - Hermeus — Subsystem Test Engineer Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
+- Hitachi Energy — Engineering Knowledge Management Intern - 8 months
 - Ignite Digital Services — Engineer/Scientist Intern
 - IMC Trading — 2027 - Quant Research Intern - IIT Delhi
 - IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
@@ -186,6 +188,7 @@ _Generated 2026-07-23_
 - Samsung — Research Intern
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
+- Schweitzer Engineering Laboratories — Software Engineering Intern
 - Seaspan — Energy Management Intern
 - Sentara Health — Enterprise Data & AI Intern
 - Signify — Product Management Intern
