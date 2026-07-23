@@ -179,6 +179,7 @@ _Generated 2026-07-23_
 - Optiver — Trading Automation and Operations Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - Quadrillion — Research Intern
+- Quadrillion — Software Engineer Intern
 - Rainmaker — Software Engineer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development

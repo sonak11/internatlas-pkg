@@ -267,7 +267,7 @@
 | [Poshmark](../companies/poshmark.md) | 1/1 | cloud |
 | [Pure Storage](../companies/pure-storage.md) | 1/1 | software-engineering |
 | [Pylon](../companies/pylon.md) | 1/1 | software-engineering |
-| [Quadrillion](../companies/quadrillion.md) | 1/2 | research, software-engineering |
+| [Quadrillion](../companies/quadrillion.md) | 0/2 | research, software-engineering |
 | [RFCUNY](../companies/rfcuny.md) | 1/2 | software-engineering |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 1/1 | product |
 | [RTX](../companies/rtx.md) | 1/1 | machine-learning |

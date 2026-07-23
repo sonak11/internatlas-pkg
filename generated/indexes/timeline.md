@@ -483,7 +483,6 @@
 - Poshmark — [Cloud Platform Engineer Intern, Growth](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa)
 - Pure Storage — [SW Engineer Internship](https://job-boards.greenhouse.io/purestorage/jobs/7996475)
 - Pylon — [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application)
-- Quadrillion — [Software Engineer Intern](https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd/application?embed=true)
 - Rakuten International — [Software Engineer Intern](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171)
 - Ramp — [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b)
 - Red Bull — [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339)
