@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**88** tracked · **75** open now
+**88** tracked · **73** open now
 
 ## Current openings
 
@@ -38,7 +38,6 @@
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Researcher Intern](https://boards.greenhouse.io/embed/job_app?token=7976964) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Researcher, PhD/Postdoc (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7976964) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Kirin](generated/companies/kirin.md) | [Software Engineer Intern - AI Agents + Devices](https://jobs.ashbyhq.com/kirin/38772f01-84fd-4f09-a36d-e7fa86341b99/application?embed=true) | NYC | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
-| [McKesson](generated/companies/mckesson.md) | [AI & Strategic Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | Mississauga | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Medpace](generated/companies/medpace.md) | [AI Engineer Intern](https://careers.medpace.com/jobs/12863?icims=1) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Medpace, Inc.](generated/companies/medpace-inc.md) | [AI Engineer Intern](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - AI Alignment](https://www.metacareers.com/jobs/1782902493113620) | Boston, MA +5 | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
@@ -81,7 +80,6 @@
 | [Veeam Software](generated/companies/veeam-software.md) | [Software Engineering Intern, Platform, Security & AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) | San Jose, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | [Veeda AI](generated/companies/veeda-ai.md) | [AI Scientist Intern - Veeda AI Scientist](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true) | Seattle, WA +2 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Workato](generated/companies/workato.md) | [Intern AI Engineering](https://job-boards.greenhouse.io/workato/jobs/8492935002) | SF | Onsite | 2026-04-10 | Rolling | 🟢 Open | ❔ |
-| [Xsolla](generated/companies/xsolla.md) | [AI Engineer Intern](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | Montreal | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Xsolla](generated/companies/xsolla.md) | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply) | LA | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [1X](generated/companies/1x.md) | [AI Residency Intern](https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application) | San Carlos, CA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [Altera Corporation](generated/companies/altera-corporation.md) | [AI Software Development Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | San Jose, CA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
@@ -93,8 +91,10 @@
 | [Eragon](generated/companies/eragon.md) | [Applied AI Intern](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [AI Software Intern](https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641) | Cambridge, MA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [Mackenzie Investments](generated/companies/mackenzie-investments.md) | [Data Science and AI Specialist Intern - Investment Management - Fundamental Equity](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false) | Greater Toronto Area | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
+| [McKesson](generated/companies/mckesson.md) | [AI & Strategic Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | Mississauga | Onsite | 2026-07-14 | Rolling | 🔴 Closed | ❔ |
 | [North Cloud](generated/companies/north-cloud.md) | [AI Automation Intern](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) | Brooklyn, NY | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Samsung Research America](generated/companies/samsung-research-america.md) | [Computer Vision/AI Intern - Computer Vision/AI](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002) | Mountain View, CA | Onsite | 2026-05-27 | Rolling | 🔴 Closed | ❔ |
+| [Xsolla](generated/companies/xsolla.md) | [AI Engineer Intern](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | Montreal | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 | [Xsolla](generated/companies/xsolla.md) | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) | Raleigh, NC | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
@@ -125,7 +125,6 @@
 - Homebase (1)
 - Intel (1)
 - Kirin (1)
-- McKesson (1)
 - Medpace (1)
 - Medpace, Inc. (1)
 - Notion (1)
@@ -153,5 +152,6 @@
 - Eragon (1)
 - Formlabs (1)
 - Mackenzie Investments (1)
+- McKesson (1)
 - North Cloud (1)
 - Samsung Research America (1)

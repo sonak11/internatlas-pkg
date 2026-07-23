@@ -23,25 +23,25 @@ _Generated 2026-07-23_
 | NVIDIA | 9 |
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
-| Tencent | 8 |
 | Walleye Capital | 8 |
 | Amazon | 7 |
 | Ciena | 7 |
 | Formlabs | 7 |
+| Palantir | 7 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 419 | `████████████` |
+| software-engineering | 420 | `████████████` |
 | quant | 105 | `███` |
 | ai | 88 | `██` |
-| machine-learning | 56 | `██` |
+| machine-learning | 55 | `██` |
 | research | 49 | `█` |
 | hardware | 45 | `█` |
 | embedded | 38 | `█` |
 | design | 22 | `█` |
-| product | 21 | `█` |
+| product | 20 | `█` |
 | cloud | 17 | `█` |
 | data-science | 14 | `█` |
 | data-engineering | 10 | `█` |
@@ -86,11 +86,14 @@ _Generated 2026-07-23_
 - Axon — Software Engineering Intern
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - Bosch Home Comfort — Business Intelligence Intern
+- Capital One — Data Science Intern
 - Capital One — Master's Data Science Internship
 - Center for AI Safety — Research Engineer Intern
 - Chevron Corporation — Earth Science Intern
 - Chevron Corporation — Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
+- Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
+- Chevron Corporation — Supply & Trading TRIP Program Intern
 - Chicago Trading Company — Software Engineering Intern
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
@@ -101,9 +104,11 @@ _Generated 2026-07-23_
 - Constellation Space — Graduate Researcher Intern - Machine Learning
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
+- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Deepgram — Software Engineer Intern
 - Definity Financial — Data Specialist Co-op Intern - Claim Operations Management
+- Democratic National Committee — DNC Technology Intern
 - Dexmate — Frontend Engineer Intern
 - DiDi Global — Motion Planning Engineer Intern
 - DNV — AI Research Intern
@@ -116,6 +121,7 @@ _Generated 2026-07-23_
 - Exploration Technology Corp. — Engineer Intern
 - Fab2 — Rust Software Engineer Intern
 - Firetiger — Product Engineer Intern/Co-op
+- Fluency — Engineer Intern
 - Formlabs — AI Software Intern
 - Formlabs — Algorithms Software Intern
 - Formlabs — Hardware R&D Engineer Intern
@@ -123,14 +129,15 @@ _Generated 2026-07-23_
 - Formlabs — Test Software Intern
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
-- GE Healthcare — Engineering Development Program Intern - Hardware
 - Generac — Data Science Intern
 - Generac — Engineering Intern
+- General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - GeoComply — Product Operations Intern
 - Google — Software Developer Intern - BS
 - Google — Software Developer Intern - MS
+- Google — Software Engineer Intern
 - Google — Software Engineer Intern - MS
 - Hermeus — Modeling & Simulation Software Engineer Intern
 - Hermeus — Subsystem Test Engineer Intern
@@ -141,15 +148,24 @@ _Generated 2026-07-23_
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
 - Jump Trading — Campus Quantitative Researcher Intern
+- Junior AI — Software Engineer Intern
+- Kinaxis — Engineer Co-op/Intern - Data & Analytics
 - Kinaxis — Software Development Co-op/Intern - C++
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
+- Marshall Wace — Technology Intern
 - Marvell — Design Verification Engineer Intern
+- McKesson — AI & Strategic Analytics Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
+- Microchip Technology — Applications Engineering Intern
+- Mosaic — Capital Project Engineering Co-op/Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - National Laboratory of the Rockies — Graduate Intern
+- Navy Federal — Year Round Intern - Business Intelligence Analyst
+- NeoSigma — Member of Technical Staff Intern
 - Netflix — AI/ML Scientist Intern - AIMS AI Foundations
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
@@ -160,30 +176,31 @@ _Generated 2026-07-23_
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
+- NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NXP Semiconductors — Digital Verification Engineer Intern
-- Odin Dynamics, Inc — Engineering Intern
 - Old Mission — Software Engineer Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
-- Pendulum Intelligence — Product Manager Intern
+- Pylon — Software Engineer Intern
 - Quadrillion — Research Intern
 - Rainmaker — Software Engineer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
+- Roam — Engineer Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
-- Salesforce — Associate Product Manager Intern - Associate Product Manager
+- RTX — Machine Learning Researcher Intern/Co-op
+- Samsung — Research Intern
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Seaspan — Energy Management Intern
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
-- SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
+- SOTI — Product Manager Intern - Sales Enablement Products
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern
 - Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern - PhD
-- Tencent — Research Intern
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
 - Tesla — Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices
@@ -194,6 +211,7 @@ _Generated 2026-07-23_
 - Verkada — Technical Support Engineering Intern - Fall 2026
 - Verne Robotics — Engineering Intern
 - Viavi Solutions — Software Development Data Analytics Intern
+- Xsolla — AI Engineer Intern
 - Xsolla — AI-First Engineer Intern
 - Zipline — Applications Engineer Intern
 - Zipline — Embedded Software Engineer Intern

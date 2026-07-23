@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**49** tracked · **43** open now
+**49** tracked · **42** open now
 
 ## Current openings
 
@@ -18,7 +18,6 @@
 | [Cohere](generated/companies/cohere.md) | [Research Internship](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | Montreal +3 | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | San Francisco | Onsite | 2023-11-07 | Rolling | 🟢 Open | ❔ |
 | [Frontier Health](generated/companies/frontier-health.md) | [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef/application?embed=true) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
-| [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | Warren, MI | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [iHeartMedia](generated/companies/iheartmedia.md) | [Research Intern](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-FL/Research-Intern_Req37325) | Florida | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Integrity](generated/companies/integrity.md) | [Research Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284) | Minneapolis, MN | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [International Rescue Committee (IRC)](generated/companies/international-rescue-committee-irc.md) | [Development Data and Research Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development---Grant-Coordination-Intern--Summer-2026-_JR00002373) | Silver Spring, MD | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
@@ -42,7 +41,7 @@
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [Research and Development Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Freeport-PA/Research-and-Development-Engineering-Intern_REQ_0000064925-1) | Tarentum, PA | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
 | [Pika](generated/companies/pika.md) | [Research Intern - BS/MS/PhD](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Palo Alto, CA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [UIUC Research Park Intern - Computational Methods Development](https://careers.rivian.com/jobs/32340?icims=1) | Urbana, IL | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
-| [Samsung](generated/companies/samsung.md) | [Research Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1) | Cambridge | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
+| [Tencent](generated/companies/tencent.md) | [Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1) | Bellevue, WA | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337) | Bellevue, WA | Onsite | 2026-01-21 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Inference](https://job-boards.greenhouse.io/togetherai/jobs/5157759007) | SF | Onsite | 2026-06-12 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Model Shaping](https://job-boards.greenhouse.io/togetherai/jobs/5157661007) | SF | Onsite | 2026-06-16 | Rolling | 🟢 Open | ❔ |
@@ -52,11 +51,12 @@
 | [Warner Bros.](generated/companies/warner-bros.md) | [Research, Analytics & Strategy Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153) | NYC | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [X Development](generated/companies/x-development.md) | [PhD Residency Intern - Operations Research and Optimization](https://x.company/careers/8511395002?gh_jid=8511395002) | Mountain View, CA | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [Center for AI Safety](generated/companies/center-for-ai-safety.md) | [Research Engineer Intern](https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4/apply) | SF | Onsite | 2026-03-09 | Rolling | 🔴 Closed | ❔ |
+| [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | Warren, MI | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - 3D Vision & World Simulation](https://www.metacareers.com/jobs/2839011673109571) | Redmond, WA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Applied Research Intern - NLP](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | Santa Clara, CA | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - System Software and I/O Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) | Urbana, IL +1 | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
 | [Quadrillion](generated/companies/quadrillion.md) | [Research Intern](https://jobs.ashbyhq.com/quadrillion-labs/579cef88-1dbf-45b5-a938-7ddc23505765/application?embed=true) | NYC | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
-| [Tencent](generated/companies/tencent.md) | [Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1) | Bellevue, WA | Onsite | 2026-06-13 | Rolling | 🔴 Closed | ❔ |
+| [Samsung](generated/companies/samsung.md) | [Research Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1) | Cambridge | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
 
@@ -75,7 +75,6 @@
 - Cohere (1)
 - Databricks (1)
 - Frontier Health (1)
-- General Motors (1)
 - iHeartMedia (1)
 - Integrity (1)
 - International Rescue Committee (IRC) (1)
@@ -85,10 +84,11 @@
 - PennState University (1)
 - Pika (1)
 - Rivian (1)
-- Samsung (1)
 - Trata (1)
 - University of Virginia (1)
 - Warner Bros. (1)
 - X Development (1)
 - Center for AI Safety (1)
+- General Motors (1)
 - Quadrillion (1)
+- Samsung (1)

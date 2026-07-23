@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-23",
-  "count": 888,
+  "count": 887,
   "internships": [
     {
       "schema_version": "1.0",
@@ -5215,7 +5215,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "blackrock-global-product-intern-2026",
+      "id": "blackrock-global-product-intern-2026-7dff7c",
       "company": {
         "name": "BlackRock",
         "slug": "blackrock"
@@ -5230,6 +5230,57 @@
         {
           "city": "Wilmington",
           "state": "DE",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-15",
+        "discovered": "2026-07-23",
+        "last_verified": "2026-07-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "blackrock-global-product-intern-2026",
+      "company": {
+        "name": "BlackRock",
+        "slug": "blackrock"
+      },
+      "role": "Global Product Intern",
+      "category": "software-engineering",
+      "apply_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
           "country": "USA"
         }
       ],
@@ -6634,7 +6685,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7651,7 +7702,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7703,7 +7754,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10225,7 +10276,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10279,7 +10330,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10331,7 +10382,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10385,7 +10436,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10702,7 +10753,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11744,7 +11795,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14691,7 +14742,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15401,7 +15452,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15875,7 +15926,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16454,7 +16505,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17857,64 +17908,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027-92c392",
-      "company": {
-        "name": "Hudson River Trading",
-        "slug": "hudson-river-trading"
-      },
-      "role": "Algorithm Development Intern - Quant Research",
-      "category": "quant",
-      "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027",
       "company": {
         "name": "Hudson River Trading",
@@ -17922,7 +17915,7 @@
       },
       "role": "Algorithm Development Intern - Quant Research",
       "category": "quant",
-      "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
+      "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -17967,6 +17960,59 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hudson-river-trading-algorithm-development-quant-research-trading-internship-summ-2027",
+      "company": {
+        "name": "Hudson River Trading",
+        "slug": "hudson-river-trading",
+        "career_page": "https://www.hudsonrivertrading.com/careers"
+      },
+      "role": "Algorithm Development (Quant Research & Trading) Internship – Summer 2027",
+      "category": "quant",
+      "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-07-23",
+        "last_verified": "2026-07-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -21859,7 +21905,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22119,7 +22165,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22635,7 +22681,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23051,7 +23097,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23316,7 +23362,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24665,7 +24711,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25197,7 +25243,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25900,7 +25946,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26113,7 +26159,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28080,7 +28126,7 @@
         "name": "NVIDIA",
         "slug": "nvidia"
       },
-      "role": "Performance Engineer Intern - Systems Software",
+      "role": "Performance Engineer Intern, Systems Software",
       "category": "software-engineering",
       "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
       "season": "fall",
@@ -28115,14 +28161,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-06",
+        "posted": "2026-07-09",
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -28287,7 +28333,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28602,9 +28648,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30148,7 +30194,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31401,7 +31447,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33388,7 +33434,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33759,59 +33805,6 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "salesforce-associate-product-manager-intern-associate-product-manager-2027-26d648",
-      "company": {
-        "name": "Salesforce",
-        "slug": "salesforce"
-      },
-      "role": "Associate Product Manager Intern - Associate Product Manager",
-      "category": "product",
-      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "SF",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
-      },
       "status": "closed",
       "tags": [
         "auto-ingested",
@@ -33827,7 +33820,7 @@
       },
       "role": "Associate Product Manager Intern - Associate Product Manager",
       "category": "product",
-      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -33990,7 +33983,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35733,7 +35726,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36358,7 +36351,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38493,7 +38486,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38555,61 +38548,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tencent-research-intern-video-world-models-research-ml-systems-2026-ef917d",
-      "company": {
-        "name": "Tencent",
-        "slug": "tencent"
-      },
-      "role": "Research Intern - Video World Models - Research & ML Systems",
-      "category": "machine-learning",
-      "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Palo Alto",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-15",
-        "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "tencent-research-intern-video-world-models-research-ml-systems-2026",
       "company": {
         "name": "Tencent",
@@ -38617,7 +38555,7 @@
       },
       "role": "Research Intern - Video World Models - Research & ML Systems",
       "category": "machine-learning",
-      "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752",
+      "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -47690,7 +47628,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

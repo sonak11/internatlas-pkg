@@ -1,19 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "salesforce-associate-product-manager-intern-associate-product-manager-2027-26d648",
+  "id": "hudson-river-trading-algorithm-development-quant-research-trading-internship-summ-2027",
   "company": {
-    "name": "Salesforce",
-    "slug": "salesforce"
+    "name": "Hudson River Trading",
+    "slug": "hudson-river-trading",
+    "career_page": "https://www.hudsonrivertrading.com/careers"
   },
-  "role": "Associate Product Manager Intern - Associate Product Manager",
-  "category": "product",
-  "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039",
+  "role": "Algorithm Development (Quant Research & Trading) Internship – Summer 2027",
+  "category": "quant",
+  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -24,9 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,12 +42,12 @@
   },
   "dates": {
     "posted": "2026-07-13",
-    "discovered": "2026-07-22",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
