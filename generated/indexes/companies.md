@@ -34,7 +34,7 @@
 | [Anduril](../companies/anduril.md) | 6/6 | hardware, software-engineering |
 | [Anthelion Capital](../companies/anthelion-capital.md) | 1/1 | quant |
 | [Apex Technology, Inc.](../companies/apex-technology-inc.md) | 1/1 | embedded |
-| [Appian](../companies/appian.md) | 2/2 | product, software-engineering |
+| [Appian](../companies/appian.md) | 4/4 | product, software-engineering |
 | [Apple](../companies/apple.md) | 2/2 | software-engineering |
 | [Aptiv](../companies/aptiv.md) | 0/1 | software-engineering |
 | [Aquatic Capital](../companies/aquatic-capital.md) | 1/1 | software-engineering |
@@ -80,7 +80,7 @@
 | [Centerstone](../companies/centerstone.md) | 0/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 1/6 | quant, software-engineering |
 | [Chicago Trading Company](../companies/chicago-trading-company.md) | 1/2 | quant, software-engineering |
-| [Ciena](../companies/ciena.md) | 5/7 | embedded, hardware, software-engineering |
+| [Ciena](../companies/ciena.md) | 4/7 | embedded, hardware, software-engineering |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 2/2 | ai |
@@ -151,7 +151,7 @@
 | [G-Research](../companies/g-research.md) | 4/4 | data-science, machine-learning, quant, software-engineering |
 | [GE Aerospace](../companies/ge-aerospace.md) | 0/1 | software-engineering |
 | [GE Appliances](../companies/ge-appliances.md) | 0/1 | software-engineering |
-| [GE Healthcare](../companies/ge-healthcare.md) | 1/2 | hardware, software-engineering |
+| [GE Healthcare](../companies/ge-healthcare.md) | 0/2 | hardware, software-engineering |
 | [GE Vernova](../companies/ge-vernova.md) | 2/2 | product |
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
@@ -231,7 +231,7 @@
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
 | [NVIDIA](../companies/nvidia.md) | 1/9 | machine-learning, quant, research, security, software-engineering |
-| [NXP Semiconductors](../companies/nxp-semiconductors.md) | 2/3 | ai, design, software-engineering |
+| [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 2/2 | software-engineering |
 | [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 2/5 | cloud, data-science, software-engineering |
@@ -269,7 +269,7 @@
 | [Phonely](../companies/phonely.md) | 2/2 | software-engineering |
 | [Phonic](../companies/phonic.md) | 1/1 | machine-learning |
 | [Pika](../companies/pika.md) | 1/1 | research |
-| [Pinterest](../companies/pinterest.md) | 4/4 | machine-learning, software-engineering |
+| [Pinterest](../companies/pinterest.md) | 3/4 | machine-learning, software-engineering |
 | [Podium](../companies/podium.md) | 0/1 | software-engineering |
 | [Point72](../companies/point72.md) | 3/3 | quant, software-engineering |
 | [Poshmark](../companies/poshmark.md) | 1/1 | cloud |
@@ -291,7 +291,7 @@
 | [Rivian](../companies/rivian.md) | 3/4 | embedded, machine-learning, research, software-engineering |
 | [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 14/14 | ai, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 0/1 | software-engineering |
-| [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 1/1 | embedded |
+| [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 0/1 | embedded |
 | [Rocket Lab](../companies/rocket-lab.md) | 0/1 | software-engineering |
 | [Rockwell Automation](../companies/rockwell-automation.md) | 2/2 | embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 1/2 | software-engineering |

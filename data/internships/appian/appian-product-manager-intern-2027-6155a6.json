@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-phd-fall-machine-learning-intern-atg-visual-multimodal-and-r-2027",
+  "id": "appian-product-manager-intern-2027-6155a6",
   "company": {
-    "name": "Pinterest",
-    "slug": "pinterest",
-    "career_page": "https://www.pinterestcareers.com/"
+    "name": "Appian",
+    "slug": "appian"
   },
-  "role": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
-  "category": "machine-learning",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640",
+  "role": "Product Manager Intern",
+  "category": "product",
+  "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "McLean",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -27,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-04-20",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-23",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

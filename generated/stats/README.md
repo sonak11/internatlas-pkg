@@ -33,7 +33,7 @@ _Generated 2026-07-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 468 | `████████████` |
+| software-engineering | 469 | `████████████` |
 | quant | 111 | `███` |
 | ai | 92 | `██` |
 | machine-learning | 61 | `██` |
@@ -41,7 +41,7 @@ _Generated 2026-07-24_
 | hardware | 48 | `█` |
 | embedded | 38 | `█` |
 | cloud | 25 | `█` |
-| product | 22 | `█` |
+| product | 23 | `█` |
 | design | 22 | `█` |
 | data-science | 15 | `█` |
 | data-engineering | 11 | `█` |
@@ -49,6 +49,8 @@ _Generated 2026-07-24_
 
 ## Newest listings
 
+- 2026-07-24 — **Appian**: [Product Manager Intern](https://careers.appian.com/jobs/8041243-product-manager-intern-)
+- 2026-07-24 — **Appian**: [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern)
 - 2026-07-24 — **Deepgram**: [Software Engineering Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1)
 - 2026-07-24 — **fab2**: [Software Engineering Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true)
 - 2026-07-24 — **Google**: [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027)
@@ -67,8 +69,6 @@ _Generated 2026-07-24_
 - 2026-07-24 — **Jane Street**: [Network Engineer Intern](https://www.janestreet.com/join-jane-street/position/8620793002/)
 - 2026-07-24 — **Jane Street**: [Quantitative Researcher Intern](https://www.janestreet.com/join-jane-street/position/8498547002/)
 - 2026-07-24 — **Jane Street**: [Quantitative Trader Intern](https://www.janestreet.com/join-jane-street/position/8617344002/)
-- 2026-07-24 — **Jane Street**: [Sales and Trading Intern](https://www.janestreet.com/join-jane-street/position/8347385002/)
-- 2026-07-24 — **Jane Street**: [Software Engineer Intern](https://www.janestreet.com/join-jane-street/position/8599644002/)
 
 ## Recently closed
 
@@ -102,6 +102,7 @@ _Generated 2026-07-24_
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
 - Chevron Corporation — Supply & Trading TRIP Program Intern
 - Chicago Trading Company — Software Engineering Intern
+- Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
@@ -139,6 +140,7 @@ _Generated 2026-07-24_
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
+- GE Healthcare — Engineering Development Program Intern - Software
 - Generac — Data Science Intern
 - Generac — Engineering Intern
 - General Motors — Research and Development Intern - Research & Development
@@ -195,10 +197,12 @@ _Generated 2026-07-24_
 - NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NVIDIA — Quantum Research Scientist Intern
 - NVIDIA — Software Engineering Intern, JAX
+- NXP Semiconductors — AI / Software Engineering Intern
 - NXP Semiconductors — Digital Verification Engineer Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
 - Pennsylvania State University — Research and Development Engineer Intern
+- Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
 - Podium — Software Engineering Intern
 - Quadrillion — Research Intern
 - Quadrillion — Software Engineer Intern
@@ -208,6 +212,7 @@ _Generated 2026-07-24_
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Roam — Engineer Intern
+- Robert Bosch Venture Capital — Hardware & Embedded Research Intern
 - Rocket Lab — Software Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
