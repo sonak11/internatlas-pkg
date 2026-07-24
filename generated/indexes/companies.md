@@ -80,7 +80,7 @@
 | [Centerstone](../companies/centerstone.md) | 0/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 1/6 | quant, software-engineering |
 | [Chicago Trading Company](../companies/chicago-trading-company.md) | 1/2 | quant, software-engineering |
-| [Ciena](../companies/ciena.md) | 6/7 | embedded, hardware, software-engineering |
+| [Ciena](../companies/ciena.md) | 5/7 | embedded, hardware, software-engineering |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 2/2 | ai |
@@ -144,7 +144,7 @@
 | [Five Rings](../companies/five-rings.md) | 3/3 | quant, software-engineering |
 | [Flow Traders](../companies/flow-traders.md) | 1/1 | quant |
 | [Fluency](../companies/fluency.md) | 0/1 | software-engineering |
-| [Formlabs](../companies/formlabs.md) | 2/7 | ai, hardware, software-engineering |
+| [Formlabs](../companies/formlabs.md) | 1/7 | ai, hardware, software-engineering |
 | [Four Hands](../companies/four-hands.md) | 1/1 | software-engineering |
 | [Frontier Health](../companies/frontier-health.md) | 1/1 | research |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](../companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | 1/1 | software-engineering |
@@ -157,7 +157,7 @@
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
 | [Generac](../companies/generac.md) | 1/3 | data-science, software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
-| [General Motors](../companies/general-motors.md) | 1/2 | machine-learning, research |
+| [General Motors](../companies/general-motors.md) | 0/2 | machine-learning, research |
 | [GeoComply](../companies/geocomply.md) | 0/2 | software-engineering |
 | [Global Infrastructure](../companies/global-infrastructure.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 1/1 | software-engineering |
@@ -319,7 +319,7 @@
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |
 | [SpaceX](../companies/spacex.md) | 8/8 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 1/1 | software-engineering |
-| [Spectrum Control](../companies/spectrum-control.md) | 1/1 | software-engineering |
+| [Spectrum Control](../companies/spectrum-control.md) | 0/1 | software-engineering |
 | [SpreeAI](../companies/spreeai.md) | 4/4 | machine-learning, software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
 | [State of North Carolina](../companies/state-of-north-carolina.md) | 0/1 | software-engineering |

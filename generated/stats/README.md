@@ -101,6 +101,7 @@ _Generated 2026-07-24_
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
 - Chevron Corporation — Supply & Trading TRIP Program Intern
 - Chicago Trading Company — Software Engineering Intern
+- Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
@@ -131,12 +132,14 @@ _Generated 2026-07-24_
 - Formlabs — AI Software Intern
 - Formlabs — Algorithms Software Intern
 - Formlabs — Hardware R&D Engineer Intern
+- Formlabs — Manufacturing Test Software Intern
 - Formlabs — Supply Chain Operations Software Intern
 - Formlabs — Test Software Intern
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - Generac — Data Science Intern
 - Generac — Engineering Intern
+- General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - GeoComply — Product Operations Intern
@@ -218,6 +221,7 @@ _Generated 2026-07-24_
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
+- Spectrum Control — Engineering Intern
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern

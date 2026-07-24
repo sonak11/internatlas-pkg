@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**51** tracked · **42** open now
+**51** tracked · **41** open now
 
 ## Current openings
 
@@ -17,7 +17,6 @@
 | [Cohere](generated/companies/cohere.md) | [Research Internship](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | Montreal +3 | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | San Francisco | Onsite | 2023-11-07 | Rolling | 🟢 Open | ❔ |
 | [Frontier Health](generated/companies/frontier-health.md) | [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef/application?embed=true) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
-| [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | Warren, MI | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [iHeartMedia](generated/companies/iheartmedia.md) | [Research Intern](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-FL/Research-Intern_Req37325) | Florida | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Integrity](generated/companies/integrity.md) | [Research Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284) | Minneapolis, MN | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [International Rescue Committee (IRC)](generated/companies/international-rescue-committee-irc.md) | [Development Data and Research Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development---Grant-Coordination-Intern--Summer-2026-_JR00002373) | Silver Spring, MD | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
@@ -52,6 +51,7 @@
 | [X Development](generated/companies/x-development.md) | [PhD Residency Intern - Operations Research and Optimization](https://x.company/careers/8511395002?gh_jid=8511395002) | Mountain View, CA | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [AMAROK Security](generated/companies/amarok-security.md) | [Research and Development Intern](https://job-boards.greenhouse.io/amarok/jobs/6018661004) | Columbia, SC | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
 | [Center for AI Safety](generated/companies/center-for-ai-safety.md) | [Research Engineer Intern](https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4/apply) | SF | Onsite | 2026-03-09 | Rolling | 🔴 Closed | ❔ |
+| [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | Warren, MI | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - 3D Vision & World Simulation](https://www.metacareers.com/jobs/2839011673109571) | Redmond, WA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [Mistral AI](generated/companies/mistral-ai.md) | [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/mtesting.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true) | London +1 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Applied Research Intern - NLP](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | Santa Clara, CA | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
@@ -77,7 +77,6 @@
 - Cohere (1)
 - Databricks (1)
 - Frontier Health (1)
-- General Motors (1)
 - iHeartMedia (1)
 - Integrity (1)
 - International Rescue Committee (IRC) (1)
@@ -93,5 +92,6 @@
 - X Development (1)
 - AMAROK Security (1)
 - Center for AI Safety (1)
+- General Motors (1)
 - Quadrillion (1)
 - Samsung (1)
