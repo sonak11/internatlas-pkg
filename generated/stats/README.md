@@ -84,6 +84,7 @@ _Generated 2026-07-24_
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Arrowstreet Capital — Quantitative Developer Intern
 - AVEVA — Software Developer Intern Co-op
+- Axogen — AI/ML Engineer Intern
 - Axon — Software Engineering Intern
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
@@ -137,6 +138,7 @@ _Generated 2026-07-24_
 - Formlabs — Test Software Intern
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
+- GE Healthcare — Engineering Development Program Intern - Hardware
 - Generac — Data Science Intern
 - Generac — Engineering Intern
 - General Motors — Research and Development Intern - Research & Development

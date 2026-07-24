@@ -49,7 +49,7 @@
 | [Atomic Semi](../companies/atomic-semi.md) | 4/4 | cloud, embedded, software-engineering |
 | [Autodesk](../companies/autodesk.md) | 5/5 | cloud, machine-learning, software-engineering |
 | [Avanade](../companies/avanade.md) | 1/1 | software-engineering |
-| [Axogen](../companies/axogen.md) | 1/1 | machine-learning |
+| [Axogen](../companies/axogen.md) | 0/1 | machine-learning |
 | [Axon](../companies/axon.md) | 0/1 | software-engineering |
 | [BDO Canada](../companies/bdo-canada.md) | 1/2 | software-engineering |
 | [BMO](../companies/bmo.md) | 0/1 | machine-learning |
@@ -151,7 +151,7 @@
 | [G-Research](../companies/g-research.md) | 4/4 | data-science, machine-learning, quant, software-engineering |
 | [GE Aerospace](../companies/ge-aerospace.md) | 0/1 | software-engineering |
 | [GE Appliances](../companies/ge-appliances.md) | 0/1 | software-engineering |
-| [GE Healthcare](../companies/ge-healthcare.md) | 2/2 | hardware, software-engineering |
+| [GE Healthcare](../companies/ge-healthcare.md) | 1/2 | hardware, software-engineering |
 | [GE Vernova](../companies/ge-vernova.md) | 2/2 | product |
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
