@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-24",
-  "count": 908,
+  "count": 909,
   "internships": [
     {
       "schema_version": "1.0",
@@ -17470,6 +17470,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "group-1001-quantitative-analysis-intern-2026",
+      "company": {
+        "name": "Group 1001",
+        "slug": "group-1001"
+      },
+      "role": "Quantitative Analysis Intern",
+      "category": "quant",
+      "apply_url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Stamford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "h-co-software-development-intern-2027",
       "company": {
         "name": "H&CO",
@@ -23340,7 +23394,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28181,7 +28235,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

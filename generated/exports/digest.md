@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-24
 
-## 🆕 New this week (162)
+## 🆕 New this week (163)
 
 - **AQR Capital Management** — [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) · quant · —
 - **AVEVA** — [Software Developer Intern Co-op](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) · software-engineering · —
@@ -82,6 +82,7 @@
 - **Google** — [Software Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126) · software-engineering · —
 - **Google** — [Software Engineer Intern - MS](https://www.google.com/about/careers/applications/jobs/results/95141459539174086) · software-engineering · —
 - **Gritt Robotics Inc** — [Robot Learning Engineer Intern](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application?embed=true) · software-engineering · —
+- **Group 1001** — [Quantitative Analysis Intern](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405) · quant · —
 - **HireVue** — [Data Science Intern](https://jobs.smartrecruiters.com/HireVue/744000138728139) · data-science · —
 - **Hitachi Energy** — [Cloud & Data Specialist Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533) · cloud · —
 - **Hubs.is** — [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) · software-engineering · —

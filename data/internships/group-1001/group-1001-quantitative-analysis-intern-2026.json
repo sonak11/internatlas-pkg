@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "nokia-product-development-intern-co-op-2026",
+  "id": "group-1001-quantitative-analysis-intern-2026",
   "company": {
-    "name": "Nokia",
-    "slug": "nokia"
+    "name": "Group 1001",
+    "slug": "group-1001"
   },
-  "role": "Product Development Intern/Co-op",
-  "category": "software-engineering",
-  "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184",
+  "role": "Quantitative Analysis Intern",
+  "category": "quant",
+  "apply_url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ottawa",
-      "country": "ON"
+      "city": "Stamford",
+      "state": "CT",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-04-16",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-23",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

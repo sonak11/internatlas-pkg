@@ -34,7 +34,7 @@ _Generated 2026-07-24_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 430 | `████████████` |
-| quant | 107 | `███` |
+| quant | 108 | `███` |
 | ai | 89 | `██` |
 | machine-learning | 59 | `██` |
 | research | 49 | `█` |
@@ -60,6 +60,7 @@ _Generated 2026-07-24_
 - 2026-07-23 — **G-Research**: [Natural Language Processing Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686)
 - 2026-07-23 — **G-Research**: [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
 - 2026-07-23 — **Golden Pet Brands**: [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005)
+- 2026-07-23 — **Group 1001**: [Quantitative Analysis Intern](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405)
 - 2026-07-23 — **Optiver**: [Institutional Trader Intern](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002)
 - 2026-07-23 — **Red Bull**: [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339)
 - 2026-07-23 — **Royal Bank of Canada**: [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1)
@@ -68,7 +69,6 @@ _Generated 2026-07-24_
 - 2026-07-23 — **T. Rowe Price**: [Global Product Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693)
 - 2026-07-23 — **T. Rowe Price**: [Global Trading Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718)
 - 2026-07-23 — **T. Rowe Price**: [Quantitative Equity Investing Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699)
-- 2026-07-23 — **T. Rowe Price**: [Technology and Data Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677)
 
 ## Recently closed
 
@@ -152,7 +152,6 @@ _Generated 2026-07-24_
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
 - Kinaxis — Software Development Co-op/Intern - C++
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Marvell — Design Verification Engineer Intern
@@ -169,6 +168,7 @@ _Generated 2026-07-24_
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern
 - Nokia — Incubation Developer Coop/Intern
+- Nokia — Product Development Intern/Co-op
 - North Cloud — AI Automation Intern
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
