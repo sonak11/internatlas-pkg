@@ -33,9 +33,9 @@ _Generated 2026-07-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 467 | `████████████` |
+| software-engineering | 468 | `████████████` |
 | quant | 111 | `███` |
-| ai | 91 | `██` |
+| ai | 92 | `██` |
 | machine-learning | 61 | `██` |
 | research | 51 | `█` |
 | hardware | 48 | `█` |
@@ -94,6 +94,7 @@ _Generated 2026-07-24_
 - Capital One — Master's Data Science Internship
 - Capital One — Product Development Internship Program
 - Center for AI Safety — Research Engineer Intern
+- Centerstone — Bachelor Level Intern
 - Chevron Corporation — Earth Science Intern
 - Chevron Corporation — Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
@@ -168,7 +169,7 @@ _Generated 2026-07-24_
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - Microchip Technology — Applications Engineering Intern
-- Moon — Software Engineer Intern - Backend & API
+- Mistral AI — Applied Scientist / Research Engineer Intern
 - Mosaic — Capital Project Engineering Co-op/Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
@@ -186,10 +187,10 @@ _Generated 2026-07-24_
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
+- NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NVIDIA — Quantum Research Scientist Intern
 - NVIDIA — Software Engineering Intern, JAX
 - NXP Semiconductors — Digital Verification Engineer Intern
-- Odin Dynamics, Inc — Engineering Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
 - Pennsylvania State University — Research and Development Engineer Intern

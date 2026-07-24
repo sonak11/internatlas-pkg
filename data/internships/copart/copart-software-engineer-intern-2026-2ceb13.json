@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "centerstone-bachelor-level-intern-2026",
+  "id": "copart-software-engineer-intern-2026-2ceb13",
   "company": {
-    "name": "Centerstone",
-    "slug": "centerstone"
+    "name": "Copart",
+    "slug": "copart"
   },
-  "role": "Bachelor Level Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-028686-1",
+  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ellenton",
-      "state": "FL",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -41,10 +41,10 @@
   },
   "dates": {
     "posted": "2026-07-15",
-    "discovered": "2026-07-18",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

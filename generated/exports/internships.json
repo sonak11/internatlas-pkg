@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-24",
-  "count": 967,
+  "count": 969,
   "internships": [
     {
       "schema_version": "1.0",
@@ -7763,7 +7763,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10561,6 +10561,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "copart-software-engineer-intern-2026-2ceb13",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-15",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "copart-software-engineer-intern-2026-7f0d4f",
       "company": {
         "name": "Copart",
@@ -10728,7 +10780,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -26873,6 +26925,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "mistral-ai-ai-data-solutions-intern-data-partnerships-2026",
+      "company": {
+        "name": "Mistral AI",
+        "slug": "mistral-ai"
+      },
+      "role": "AI Data Solutions Intern - Data Partnerships",
+      "category": "ai",
+      "apply_url": "https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "mistral-ai-applied-scientist-research-engineer-intern-2026-f1ff6e",
       "company": {
         "name": "Mistral AI",
@@ -26920,7 +27024,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27242,7 +27346,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-24"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30750,7 +30854,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31067,7 +31171,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-24"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

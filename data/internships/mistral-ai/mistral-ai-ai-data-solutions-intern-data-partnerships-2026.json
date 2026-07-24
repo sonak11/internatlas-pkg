@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "centerstone-bachelor-level-intern-2026",
+  "id": "mistral-ai-ai-data-solutions-intern-data-partnerships-2026",
   "company": {
-    "name": "Centerstone",
-    "slug": "centerstone"
+    "name": "Mistral AI",
+    "slug": "mistral-ai"
   },
-  "role": "Bachelor Level Intern",
-  "category": "software-engineering",
-  "apply_url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-028686-1",
+  "role": "AI Data Solutions Intern - Data Partnerships",
+  "category": "ai",
+  "apply_url": "https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ellenton",
-      "state": "FL",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
