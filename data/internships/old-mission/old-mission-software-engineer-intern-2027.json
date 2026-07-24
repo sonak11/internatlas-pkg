@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
+    "posted": "2026-07-24",
     "discovered": "2026-07-17",
-    "last_verified": "2026-07-22"
+    "last_verified": "2026-07-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

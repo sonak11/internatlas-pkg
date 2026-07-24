@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**109** tracked · **95** open now
+**111** tracked · **97** open now
 
 ## Current openings
 
@@ -32,6 +32,8 @@
 | [Group 1001](generated/companies/group-1001.md) | [Quantitative Analysis Intern](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405) | Stamford, CT | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) | New York, NY | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Algorithm Development Intern - Quant Research](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837) | NYC +1 | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
+| [IMC](generated/companies/imc.md) | [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [IMC](generated/companies/imc.md) | [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101) | Chicago | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - Quant Research Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860277101) | Amsterdam | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - Software Engineering Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) | Mumbai | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - Software Engineering Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) | Mumbai | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
@@ -134,6 +136,7 @@
 - Citadel (2)
 - Five Rings (2)
 - Hudson River Trading (2)
+- IMC (2)
 - Point72 (2)
 - Tower Research Capital (2)
 - TransMarket Group (2)

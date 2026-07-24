@@ -95,7 +95,7 @@
 | [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 0/1 | machine-learning |
-| [Copart](../companies/copart.md) | 7/7 | software-engineering |
+| [Copart](../companies/copart.md) | 6/6 | software-engineering |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
 | [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
@@ -180,7 +180,7 @@
 | [Hubs.is](../companies/hubs-is.md) | 1/1 | software-engineering |
 | [Hudson River Trading](../companies/hudson-river-trading.md) | 5/5 | quant, software-engineering |
 | [Human Computer Lab](../companies/human-computer-lab.md) | 1/1 | machine-learning |
-| [IMC](../companies/imc.md) | 1/1 | software-engineering |
+| [IMC](../companies/imc.md) | 4/4 | hardware, quant, software-engineering |
 | [IMC Trading](../companies/imc-trading.md) | 12/14 | hardware, machine-learning, quant |
 | [Ignite Digital Services](../companies/ignite-digital-services.md) | 0/1 | software-engineering |
 | [Impulse Space](../companies/impulse-space.md) | 1/2 | software-engineering |
@@ -225,7 +225,7 @@
 | [Mobius Renewables](../companies/mobius-renewables.md) | 2/2 | software-engineering |
 | [Monogram](../companies/monogram.md) | 1/1 | software-engineering |
 | [Moog](../companies/moog.md) | 1/1 | software-engineering |
-| [Moon](../companies/moon.md) | 3/3 | machine-learning, software-engineering |
+| [Moon](../companies/moon.md) | 2/3 | machine-learning, software-engineering |
 | [Mosaic](../companies/mosaic.md) | 0/1 | software-engineering |
 | [Moss & Associates](../companies/moss-associates.md) | 1/1 | software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
@@ -247,8 +247,8 @@
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
 | [Notion](../companies/notion.md) | 6/6 | ai, software-engineering |
 | [Nuro](../companies/nuro.md) | 1/1 | ai |
-| [Odin Dynamics, Inc](../companies/odin-dynamics-inc.md) | 1/1 | software-engineering |
-| [Old Mission](../companies/old-mission.md) | 0/1 | software-engineering |
+| [Odin Dynamics, Inc](../companies/odin-dynamics-inc.md) | 0/1 | software-engineering |
+| [Old Mission](../companies/old-mission.md) | 1/1 | software-engineering |
 | [Oligo Space](../companies/oligo-space.md) | 1/1 | machine-learning |
 | [Optiver](../companies/optiver.md) | 10/11 | hardware, quant, software-engineering |
 | [OpusClip](../companies/opusclip.md) | 1/1 | ai |

@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "odin-dynamics-inc-engineering-intern-2026",
+  "id": "imc-quantitative-research-intern-phd-2027",
   "company": {
-    "name": "Odin Dynamics, Inc",
-    "slug": "odin-dynamics-inc"
+    "name": "IMC",
+    "slug": "imc"
   },
-  "role": "Engineering Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true",
-  "season": "fall",
-  "year": 2026,
+  "role": "Quantitative Research Intern (PHD)",
+  "category": "quant",
+  "apply_url": "https://www.imc.com/us/careers/jobs/4907400101",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "state": "LA",
+      "city": "Chicago",
       "country": "USA"
     }
   ],
@@ -24,12 +24,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -41,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-21",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

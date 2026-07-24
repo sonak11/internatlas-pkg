@@ -33,12 +33,12 @@ _Generated 2026-07-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 468 | `████████████` |
-| quant | 109 | `███` |
+| software-engineering | 467 | `████████████` |
+| quant | 111 | `███` |
 | ai | 91 | `██` |
 | machine-learning | 61 | `██` |
 | research | 51 | `█` |
-| hardware | 47 | `█` |
+| hardware | 48 | `█` |
 | embedded | 38 | `█` |
 | cloud | 25 | `█` |
 | product | 22 | `█` |
@@ -54,6 +54,9 @@ _Generated 2026-07-24_
 - 2026-07-24 — **Google**: [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027)
 - 2026-07-24 — **Hudson River Trading**: [Intern](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/)
 - 2026-07-24 — **Hudson River Trading**: [Software Engineer Intern](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/)
+- 2026-07-24 — **IMC**: [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101)
+- 2026-07-24 — **IMC**: [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101)
+- 2026-07-24 — **IMC**: [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101)
 - 2026-07-24 — **Jane Street**: [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/)
 - 2026-07-24 — **Jane Street**: [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/)
 - 2026-07-24 — **Jane Street**: [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/)
@@ -66,9 +69,6 @@ _Generated 2026-07-24_
 - 2026-07-24 — **Jane Street**: [Quantitative Trader Intern](https://www.janestreet.com/join-jane-street/position/8617344002/)
 - 2026-07-24 — **Jane Street**: [Sales and Trading Intern](https://www.janestreet.com/join-jane-street/position/8347385002/)
 - 2026-07-24 — **Jane Street**: [Software Engineer Intern](https://www.janestreet.com/join-jane-street/position/8599644002/)
-- 2026-07-24 — **Jane Street**: [Software Engineer Intern](https://www.janestreet.com/join-jane-street/position/8419303002/)
-- 2026-07-24 — **Jane Street**: [Tools and Compilers Research and Development Intern](https://www.janestreet.com/join-jane-street/position/5869205002/)
-- 2026-07-24 — **Jane Street**: [Trading Desk Operations Engineer Intern](https://www.janestreet.com/join-jane-street/position/8621450002/)
 
 ## Recently closed
 
@@ -168,6 +168,7 @@ _Generated 2026-07-24_
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - Microchip Technology — Applications Engineering Intern
+- Moon — Software Engineer Intern - Backend & API
 - Mosaic — Capital Project Engineering Co-op/Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
@@ -188,7 +189,7 @@ _Generated 2026-07-24_
 - NVIDIA — Quantum Research Scientist Intern
 - NVIDIA — Software Engineering Intern, JAX
 - NXP Semiconductors — Digital Verification Engineer Intern
-- Old Mission — Software Engineer Intern
+- Odin Dynamics, Inc — Engineering Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
 - Pennsylvania State University — Research and Development Engineer Intern

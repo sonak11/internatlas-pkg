@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-2ceb13",
+  "id": "imc-hardware-engineer-intern-2027",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "IMC",
+    "slug": "imc"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
-  "season": "fall",
-  "year": 2026,
+  "role": "Hardware Engineer Intern",
+  "category": "hardware",
+  "apply_url": "https://www.imc.com/us/careers/jobs/4823945101",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

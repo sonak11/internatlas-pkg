@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-24
 
-## 🆕 New this week (219)
+## 🆕 New this week (223)
 
 - **AQR Capital Management** — [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) · quant · —
 - **AVEVA** — [Software Developer Intern Co-op](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) · software-engineering · —
@@ -90,6 +90,9 @@
 - **Hubs.is** — [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) · software-engineering · —
 - **Hudson River Trading** — [Intern](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/) · software-engineering · —
 - **Hudson River Trading** — [Software Engineer Intern](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) · software-engineering · —
+- **IMC** — [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101) · hardware · —
+- **IMC** — [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101) · quant · —
+- **IMC** — [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101) · quant · —
 - **Impulse Space** — [Data Analytics Intern](https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq) · software-engineering · —
 - **JINGDONG** — [Software Engineering Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Software-Engineering-Internship_JR103340) · software-engineering · —
 - **Jane Street** — [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/) · security · —
@@ -140,6 +143,7 @@
 - **Neuralink** — [R&D Materials Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) · hardware · —
 - **North Cloud** — [AI Automation Intern](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) · ai · —
 - **Odin Dynamics, Inc** — [Engineering Intern](https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true) · software-engineering · —
+- **Old Mission** — [Software Engineer Intern](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) · software-engineering · —
 - **Oligo Space** — [ML/AI/CS Intern](https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6/application?embed=true) · machine-learning · —
 - **Optiver** — [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) · hardware · —
 - **Optiver** — [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002) · hardware · —

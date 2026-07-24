@@ -12,6 +12,9 @@ Listings whose employer sponsors work visas.
 | [DimeHealth AI](generated/companies/dimehealth-ai.md) | [Forward Deployed Engineering Intern](https://www.workatastartup.com/jobs/94211) | New York, NY | Onsite | 2026-05-09 | Rolling | 🟢 Open | ✅ |
 | [fab2](generated/companies/fab2.md) | [Software Engineering Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true) | San Francisco, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Herdora](generated/companies/herdora.md) | [Member Of Technical Staff Intern](https://www.workatastartup.com/jobs/83224) | San Francisco, CA | Onsite | 2025-10-14 | Rolling | 🟢 Open | ✅ |
+| [IMC](generated/companies/imc.md) | [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [IMC](generated/companies/imc.md) | [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [IMC](generated/companies/imc.md) | [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101) | Chicago | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Jane Street](generated/companies/jane-street.md) | [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Jane Street](generated/companies/jane-street.md) | [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Jane Street](generated/companies/jane-street.md) | [Machine Learning Researcher Intern](https://www.janestreet.com/join-jane-street/position/8384490002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
